@@ -1,0 +1,1001 @@
+code_index,code_id,code_ca,id,categary,trace,index,labs,epic,rna_seq,wgs,atac_seq
+G577-5-3-1,G577-315-502-193,G577-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],193,[Isogenic Gene Cell Line],502,1,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G970-4-2-1,G970-950-201-181,G970-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],181,[Isogenic Gene Cell Line],201,1,Edinburgh,FALSE,TRUE,TRUE,FALSE
+G738-3-2-1-1,G738-49-552-528-909,G738-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],909,[Xenograph Derive Cell Line],528,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G588-4-1-2-1,G588-924-535-961-708,G588-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],708,[Xenograph Derive Cell Line],961,1,Spain,FALSE,TRUE,FALSE,TRUE
+G509-1,G509-442,G509-[Human Feotal Primary Tissue],442,[Human Feotal Primary Tissue],G509,1,Spain,FALSE,FALSE,FALSE,TRUE
+G394-2-1-1,G394-534-342-306,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],306,[Engineered GBM Cell Line],342,1,UCL,FALSE,TRUE,TRUE,TRUE
+G642-7-1-1,G642-311-489-110,G642-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],110,[Isogenic Gene Cell Line],489,1,Spain,FALSE,TRUE,TRUE,TRUE
+G138-1,G138-971,G138-[Human Feotal Primary Tissue],971,[Human Feotal Primary Tissue],G138,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G105-9-3-1,G105-183-698-5,G105-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],5,[Isogenic Gene Cell Line],698,1,UCL,FALSE,TRUE,TRUE,TRUE
+G666-7-1,G666-953-391,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],391,[Human Neural Stem Cell Line],953,1,UCL,TRUE,TRUE,TRUE,TRUE
+G463-2-1,G463-235-993,G463-[Primary Tumour Tissue]-[GBM Cell Line],993,[GBM Cell Line],235,1,Edinburgh,TRUE,FALSE,TRUE,FALSE
+G835-2-1,G835-424-846,G835-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],846,[Human Neural Stem Cell Line],424,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G666-16-1,G666-863-880,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],880,[Human Neural Stem Cell Line],863,1,Spain,TRUE,TRUE,TRUE,TRUE
+G668-1,G668-335,G668-[Primary Tumour Tissue],335,[Primary Tumour Tissue],G668,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G394-2-1,G394-534-342,G394-[Primary Tumour Tissue]-[GBM Cell Line],342,[GBM Cell Line],534,1,UCL,FALSE,FALSE,TRUE,FALSE
+G200-5-2-1-1,G200-626-30-622-687,G200-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],687,[Xenograph Derive Cell Line],622,1,Spain,TRUE,TRUE,TRUE,FALSE
+G550-2-2-1,G550-947-932-980,G550-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],980,[Isogenic Gene Cell Line],932,1,Spain,TRUE,TRUE,TRUE,TRUE
+G970-4-1-1,G970-950-794-761,G970-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],761,[Isogenic Gene Cell Line],794,1,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G86-1,G86-272,G86-[Primary Tumour Tissue],272,[Primary Tumour Tissue],G86,1,Spain,TRUE,TRUE,TRUE,TRUE
+G951-3-1,G951-525-813,G951-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],813,[Patient Derived Neural Stem Cell],525,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G283-1,G283-817,G283-[Peripheral Blood Mononuclear Cell],817,[Peripheral Blood Mononuclear Cell],G283,1,UCL,TRUE,TRUE,TRUE,FALSE
+G415-6-1,G415-281-407,G415-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],407,[Patient Derived Neural Stem Cell],281,1,Spain,TRUE,FALSE,TRUE,TRUE
+G121-2-1,G121-638-612,G121-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],612,[Patient Derived Neural Stem Cell],638,1,Spain,FALSE,TRUE,FALSE,TRUE
+G873-6-1-1-1,G873-749-996-644-156,G873-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],156,[Xenograph Derive Cell Line],644,1,Spain,FALSE,TRUE,TRUE,TRUE
+G200-1,G200-780,G200-[Primary Tumour Tissue],780,[Primary Tumour Tissue],G200,1,UCL,TRUE,TRUE,TRUE,TRUE
+G530-5-1,G530-97-662,G530-[Primary Tumour Tissue]-[GBM Cell Line],662,[GBM Cell Line],97,1,Spain,FALSE,TRUE,FALSE,TRUE
+G463-12-1,G463-121-78,G463-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],78,[Patient Derived Neural Stem Cell],121,1,UCL,FALSE,TRUE,TRUE,TRUE
+G219-1-2-1-1,G219-521-792-354-568,G219-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],568,[Xenograph Derive Cell Line],354,1,UCL,TRUE,FALSE,TRUE,TRUE
+G76-1,G76-349,G76-[Primary Tumour Tissue],349,[Primary Tumour Tissue],G76,1,Spain,TRUE,TRUE,TRUE,TRUE
+G463-4-1,G463-155-899,G463-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],899,[Patient Derived Neural Stem Cell],155,1,Spain,TRUE,TRUE,FALSE,TRUE
+G781-1,G781-239,G781-[Peripheral Blood Mononuclear Cell],239,[Peripheral Blood Mononuclear Cell],G781,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G642-1,G642-175,G642-[Primary Tumour Tissue],175,[Primary Tumour Tissue],G642,1,Spain,TRUE,TRUE,TRUE,TRUE
+G588-2-1,G588-659-107,G588-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],107,[Patient Derived Neural Stem Cell],659,1,UCL,TRUE,TRUE,TRUE,TRUE
+G632-1,G632-523,G632-[Peripheral Blood Mononuclear Cell],523,[Peripheral Blood Mononuclear Cell],G632,1,Spain,FALSE,TRUE,TRUE,TRUE
+G550-2-2-2,G550-947-932-68,G550-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],68,[Isogenic Gene Cell Line],932,2,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G415-5-1,G415-876-363,G415-[Primary Tumour Tissue]-[GBM Cell Line],363,[GBM Cell Line],876,1,UCL,TRUE,TRUE,TRUE,TRUE
+G219-1,G219-521,G219-[Primary Tumour Tissue],521,[Primary Tumour Tissue],G219,1,Spain,TRUE,TRUE,TRUE,TRUE
+G293-1,G293-275,G293-[Primary Tumour Tissue],275,[Primary Tumour Tissue],G293,1,Spain,FALSE,TRUE,TRUE,TRUE
+G105-1,G105-774,G105-[Primary Tumour Tissue],774,[Primary Tumour Tissue],G105,1,Spain,TRUE,FALSE,TRUE,TRUE
+G711-1,G711-991,G711-[Human Feotal Primary Tissue],991,[Human Feotal Primary Tissue],G711,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G711-2,G711-655,G711-[Primary Tumour Tissue],655,[Primary Tumour Tissue],G711,2,UCL,TRUE,TRUE,FALSE,TRUE
+G293-2,G293-945,G293-[Peripheral Blood Mononuclear Cell],945,[Peripheral Blood Mononuclear Cell],G293,2,UCL,TRUE,FALSE,TRUE,TRUE
+G562-9-1-1,G562-998-581-202,G562-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],202,[Engineered GBM Cell Line],581,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G275-3-3-1,G275-20-550-428,G275-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],428,[Engineered GBM Cell Line],550,1,Spain,TRUE,FALSE,FALSE,TRUE
+G275-5-1-1,G275-567-632-196,G275-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],196,[Engineered GBM Cell Line],632,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G293-1-1,G293-275-324,G293-[Primary Tumour Tissue]-[GBM Cell Line],324,[GBM Cell Line],275,1,Spain,FALSE,TRUE,TRUE,TRUE
+G283-3-1-5-1,G283-83-539-336-569,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],569,[Xenograph Derive Cell Line],336,1,Spain,TRUE,TRUE,TRUE,TRUE
+G642-7-1,G642-311-489,G642-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],489,[Human Neural Stem Cell Line],311,1,Spain,TRUE,TRUE,TRUE,TRUE
+G511-9-1,G511-233-493,G511-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],493,[Patient Derived Neural Stem Cell],233,1,Spain,TRUE,FALSE,TRUE,TRUE
+G415-9-1,G415-541-50,G415-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],50,[Human Neural Stem Cell Line],541,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G781-2,G781-423,G781-[Peripheral Blood Mononuclear Cell],423,[Peripheral Blood Mononuclear Cell],G781,2,UCL,TRUE,TRUE,TRUE,TRUE
+G364-1,G364-833,G364-[Human Feotal Primary Tissue],833,[Human Feotal Primary Tissue],G364,1,Spain,FALSE,TRUE,TRUE,FALSE
+G992-1,G992-805,G992-[Peripheral Blood Mononuclear Cell],805,[Peripheral Blood Mononuclear Cell],G992,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G468-4-2-1,G468-365-418-218,G468-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],218,[Engineered GBM Cell Line],418,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G988-8-1,G988-694-454,G988-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],454,[Human Neural Stem Cell Line],694,1,UCL,TRUE,TRUE,TRUE,FALSE
+G873-6-2-1-1,G873-749-743-434-560,G873-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],560,[Xenograph Derive Cell Line],434,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G873-6-2-1,G873-749-743-434,G873-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],434,[Engineered GBM Cell Line],743,1,UCL,TRUE,FALSE,TRUE,TRUE
+G509-1-1,G509-442-968,G509-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],968,[Human Neural Stem Cell Line],442,1,UCL,FALSE,FALSE,TRUE,TRUE
+G293-4-1,G293-29-225,G293-[Primary Tumour Tissue]-[GBM Cell Line],225,[GBM Cell Line],29,1,Spain,TRUE,TRUE,TRUE,TRUE
+G463-2-1-1,G463-235-993-641,G463-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],641,[Engineered GBM Cell Line],993,1,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G275-2-1-1,G275-1-604-341,G275-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],341,[Isogenic Gene Cell Line],604,1,UCL,TRUE,TRUE,FALSE,TRUE
+G930-1,G930-305,G930-[Human Feotal Primary Tissue],305,[Human Feotal Primary Tissue],G930,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G835-4-1,G835-301-636,G835-[Primary Tumour Tissue]-[GBM Cell Line],636,[GBM Cell Line],301,1,UCL,TRUE,TRUE,FALSE,TRUE
+G415-1,G415-845,G415-[Peripheral Blood Mononuclear Cell],845,[Peripheral Blood Mononuclear Cell],G415,1,UCL,FALSE,TRUE,TRUE,TRUE
+G275-1,G275-711,G275-[Peripheral Blood Mononuclear Cell],711,[Peripheral Blood Mononuclear Cell],G275,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G666-1,G666-109,G666-[Peripheral Blood Mononuclear Cell],109,[Peripheral Blood Mononuclear Cell],G666,1,UCL,TRUE,TRUE,TRUE,TRUE
+G283-4-1,G283-348-384,G283-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],384,[Patient Derived Neural Stem Cell],348,1,UCL,TRUE,TRUE,FALSE,TRUE
+G562-9-2-1,G562-998-565-530,G562-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],530,[Engineered GBM Cell Line],565,1,UCL,TRUE,FALSE,FALSE,FALSE
+G835-3-1,G835-972-138,G835-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],138,[Patient Derived Neural Stem Cell],972,1,Spain,TRUE,TRUE,TRUE,TRUE
+G392-1,G392-800,G392-[Human Feotal Primary Tissue],800,[Human Feotal Primary Tissue],G392,1,Spain,TRUE,FALSE,TRUE,TRUE
+G394-1,G394-600,G394-[Primary Tumour Tissue],600,[Primary Tumour Tissue],G394,1,Edinburgh,FALSE,FALSE,FALSE,TRUE
+G511-1,G511-73,G511-[Human Feotal Primary Tissue],73,[Human Feotal Primary Tissue],G511,1,UCL,TRUE,FALSE,TRUE,TRUE
+G970-1,G970-828,G970-[Primary Tumour Tissue],828,[Primary Tumour Tissue],G970,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G364-6-1,G364-180-938,G364-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],938,[Patient Derived Neural Stem Cell],180,1,UCL,TRUE,FALSE,FALSE,TRUE
+G632-2,G632-514,G632-[Peripheral Blood Mononuclear Cell],514,[Peripheral Blood Mononuclear Cell],G632,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G283-3-1-1-1,G283-83-539-178-328,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],328,[Xenograph Derive Cell Line],178,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G666-15-3-1,G666-317-578-728,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],728,[Isogenic Gene Cell Line],578,1,UCL,TRUE,TRUE,FALSE,FALSE
+G121-1,G121-76,G121-[Human Feotal Primary Tissue],76,[Human Feotal Primary Tissue],G121,1,UCL,TRUE,TRUE,FALSE,TRUE
+G632-3-1,G632-573-713,G632-[Primary Tumour Tissue]-[GBM Cell Line],713,[GBM Cell Line],573,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G463-1,G463-970,G463-[Peripheral Blood Mononuclear Cell],970,[Peripheral Blood Mononuclear Cell],G463,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G530-8-1,G530-598-160,G530-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],160,[Human Neural Stem Cell Line],598,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G689-1,G689-872,G689-[Primary Tumour Tissue],872,[Primary Tumour Tissue],G689,1,Spain,TRUE,FALSE,TRUE,TRUE
+G988-3-1-1-1,G988-327-89-592-823,G988-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],823,[Xenograph Derive Cell Line],592,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G666-5-1,G666-871-358,G666-[Primary Tumour Tissue]-[GBM Cell Line],358,[GBM Cell Line],871,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G138-3-1,G138-858-139,G138-[Primary Tumour Tissue]-[GBM Cell Line],139,[GBM Cell Line],858,1,UCL,TRUE,TRUE,TRUE,TRUE
+G468-1,G468-898,G468-[Human Feotal Primary Tissue],898,[Human Feotal Primary Tissue],G468,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G728-6-1,G728-540-559,G728-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],559,[Patient Derived Neural Stem Cell],540,1,Edinburgh,FALSE,FALSE,TRUE,TRUE
+G835-1,G835-680,G835-[Human Feotal Primary Tissue],680,[Human Feotal Primary Tissue],G835,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G978-1,G978-753,G978-[Peripheral Blood Mononuclear Cell],753,[Peripheral Blood Mononuclear Cell],G978,1,Edinburgh,FALSE,FALSE,TRUE,TRUE
+G105-2,G105-127,G105-[Peripheral Blood Mononuclear Cell],127,[Peripheral Blood Mononuclear Cell],G105,2,UCL,TRUE,TRUE,TRUE,TRUE
+G549-5-1,G549-856-902,G549-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],902,[Human Neural Stem Cell Line],856,1,Spain,TRUE,TRUE,TRUE,TRUE
+G666-15-1,G666-317-383,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],383,[Human Neural Stem Cell Line],317,1,Edinburgh,TRUE,TRUE,FALSE,FALSE
+G394-2,G394-534,G394-[Primary Tumour Tissue],534,[Primary Tumour Tissue],G394,2,Spain,TRUE,TRUE,TRUE,FALSE
+G978-2-1-1-1,G978-712-499-24-72,G978-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],72,[Xenograph Derive Cell Line],24,1,UCL,TRUE,TRUE,TRUE,TRUE
+G275-2,G275-1,G275-[Human Feotal Primary Tissue],1,[Human Feotal Primary Tissue],G275,2,UCL,TRUE,TRUE,TRUE,FALSE
+G666-4-1,G666-725-108,G666-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],108,[Patient Derived Neural Stem Cell],725,1,UCL,TRUE,FALSE,TRUE,FALSE
+G394-1-1,G394-600-579,G394-[Primary Tumour Tissue]-[GBM Cell Line],579,[GBM Cell Line],600,1,Spain,FALSE,TRUE,TRUE,TRUE
+G835-5-2-1,G835-253-462-436,G835-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],436,[Isogenic Gene Cell Line],462,1,Spain,FALSE,TRUE,TRUE,TRUE
+G549-1,G549-873,G549-[Peripheral Blood Mononuclear Cell],873,[Peripheral Blood Mononuclear Cell],G549,1,UCL,TRUE,TRUE,TRUE,TRUE
+G642-2,G642-467,G642-[Primary Tumour Tissue],467,[Primary Tumour Tissue],G642,2,UCL,TRUE,TRUE,TRUE,TRUE
+G394-2-2-1,G394-534-501-126,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],126,[Engineered GBM Cell Line],501,1,Spain,TRUE,TRUE,TRUE,TRUE
+G138-2,G138-465,G138-[Primary Tumour Tissue],465,[Primary Tumour Tissue],G138,2,UCL,TRUE,FALSE,FALSE,TRUE
+G219-6-1-1,G219-821-248-562,G219-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],562,[Engineered GBM Cell Line],248,1,UCL,TRUE,TRUE,TRUE,TRUE
+G988-8-2,G988-694-446,G988-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],446,[Human Neural Stem Cell Line],694,2,UCL,TRUE,FALSE,TRUE,FALSE
+G283-7-1,G283-385-943,G283-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],943,[Patient Derived Neural Stem Cell],385,1,Spain,TRUE,TRUE,TRUE,TRUE
+G666-3-1,G666-586-487,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],487,[Human Neural Stem Cell Line],586,1,UCL,TRUE,TRUE,TRUE,TRUE
+G86-2,G86-18,G86-[Peripheral Blood Mononuclear Cell],18,[Peripheral Blood Mononuclear Cell],G86,2,Spain,TRUE,TRUE,FALSE,FALSE
+G632-3,G632-573,G632-[Primary Tumour Tissue],573,[Primary Tumour Tissue],G632,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G951-1-1-1,G951-910-948-688,G951-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],688,[Isogenic Gene Cell Line],948,1,UCL,TRUE,TRUE,TRUE,TRUE
+G892-1-1,G892-486-575,G892-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],575,[Patient Derived Neural Stem Cell],486,1,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G511-4-1,G511-167-352,G511-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],352,[Patient Derived Neural Stem Cell],167,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G666-2,G666-746,G666-[Peripheral Blood Mononuclear Cell],746,[Peripheral Blood Mononuclear Cell],G666,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G138-3,G138-858,G138-[Primary Tumour Tissue],858,[Primary Tumour Tissue],G138,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G992-1-1,G992-805-988,G992-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],988,[Patient Derived Neural Stem Cell],805,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G964-1,G964-617,G964-[Primary Tumour Tissue],617,[Primary Tumour Tissue],G964,1,Edinburgh,FALSE,FALSE,TRUE,TRUE
+G72-4-1-1,G72-331-86-979,G72-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],979,[Isogenic Gene Cell Line],86,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G930-2,G930-762,G930-[Peripheral Blood Mononuclear Cell],762,[Peripheral Blood Mononuclear Cell],G930,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G711-3,G711-633,G711-[Peripheral Blood Mononuclear Cell],633,[Peripheral Blood Mononuclear Cell],G711,3,UCL,TRUE,TRUE,TRUE,TRUE
+G738-5-1,G738-724-789,G738-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],789,[Patient Derived Neural Stem Cell],724,1,UCL,TRUE,TRUE,TRUE,TRUE
+G765-5-1,G765-34-451,G765-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],451,[Human Neural Stem Cell Line],34,1,UCL,TRUE,TRUE,FALSE,TRUE
+G630-2-1,G630-520-13,G630-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],13,[Human Neural Stem Cell Line],520,1,Spain,TRUE,FALSE,TRUE,TRUE
+G728-1,G728-750,G728-[Peripheral Blood Mononuclear Cell],750,[Peripheral Blood Mononuclear Cell],G728,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G394-5-1-3-1,G394-57-892-356-631,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],631,[Xenograph Derive Cell Line],356,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G642-8-2-1,G642-459-322-373,G642-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],373,[Isogenic Gene Cell Line],322,1,Spain,TRUE,TRUE,FALSE,TRUE
+G642-2-2-1,G642-467-154-860,G642-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],860,[Engineered GBM Cell Line],154,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G978-2-1-1-2,G978-712-499-24-941,G978-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],941,[Xenograph Derive Cell Line],24,2,UCL,TRUE,TRUE,TRUE,TRUE
+G781-3-1-2-1,G781-580-313-734-114,G781-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],114,[Xenograph Derive Cell Line],734,1,UCL,FALSE,TRUE,TRUE,TRUE
+G668-4-1,G668-685-686,G668-[Primary Tumour Tissue]-[GBM Cell Line],686,[GBM Cell Line],685,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G394-5-1,G394-57-892,G394-[Primary Tumour Tissue]-[GBM Cell Line],892,[GBM Cell Line],57,1,UCL,TRUE,TRUE,FALSE,TRUE
+G275-3,G275-20,G275-[Primary Tumour Tissue],20,[Primary Tumour Tissue],G275,3,UCL,FALSE,TRUE,FALSE,TRUE
+G781-5-1,G781-797-642,G781-[Primary Tumour Tissue]-[GBM Cell Line],642,[GBM Cell Line],797,1,Edinburgh,FALSE,FALSE,FALSE,TRUE
+G72-1,G72-986,G72-[Peripheral Blood Mononuclear Cell],986,[Peripheral Blood Mononuclear Cell],G72,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G835-4-2-1,G835-301-307-185,G835-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],185,[Engineered GBM Cell Line],307,1,UCL,TRUE,TRUE,TRUE,TRUE
+G394-5-1-3-2,G394-57-892-356-429,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],429,[Xenograph Derive Cell Line],356,2,Spain,TRUE,TRUE,FALSE,TRUE
+G835-4-2-2-1,G835-301-307-168-618,G835-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],618,[Xenograph Derive Cell Line],168,1,UCL,FALSE,TRUE,FALSE,TRUE
+G283-6-1,G283-879-614,G283-[Primary Tumour Tissue]-[GBM Cell Line],614,[GBM Cell Line],879,1,Edinburgh,FALSE,FALSE,TRUE,TRUE
+G562-9-1,G562-998-581,G562-[Primary Tumour Tissue]-[GBM Cell Line],581,[GBM Cell Line],998,1,UCL,FALSE,TRUE,TRUE,TRUE
+G988-5-1,G988-867-572,G988-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],572,[Human Neural Stem Cell Line],867,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G464-1-1-1,G464-648-870-430,G464-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],430,[Isogenic Gene Cell Line],870,1,Spain,TRUE,TRUE,TRUE,TRUE
+G76-2,G76-967,G76-[Peripheral Blood Mononuclear Cell],967,[Peripheral Blood Mononuclear Cell],G76,2,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G392-2,G392-119,G392-[Peripheral Blood Mononuclear Cell],119,[Peripheral Blood Mononuclear Cell],G392,2,Spain,TRUE,TRUE,TRUE,FALSE
+G549-2,G549-759,G549-[Primary Tumour Tissue],759,[Primary Tumour Tissue],G549,2,UCL,TRUE,TRUE,TRUE,TRUE
+G835-4-2,G835-301-307,G835-[Primary Tumour Tissue]-[GBM Cell Line],307,[GBM Cell Line],301,2,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G668-4-2-1-1,G668-685-343-896-744,G668-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],744,[Xenograph Derive Cell Line],896,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G394-2-1-1-1,G394-534-342-306-140,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],140,[Xenograph Derive Cell Line],306,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G511-7-1,G511-334-557,G511-[Primary Tumour Tissue]-[GBM Cell Line],557,[GBM Cell Line],334,1,Edinburgh,FALSE,FALSE,FALSE,TRUE
+G728-6-2,G728-540-678,G728-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],678,[Patient Derived Neural Stem Cell],540,2,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G138-6-2-1,G138-812-542-102,G138-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],102,[Isogenic Gene Cell Line],542,1,Spain,TRUE,TRUE,TRUE,TRUE
+G394-3,G394-984,G394-[Peripheral Blood Mononuclear Cell],984,[Peripheral Blood Mononuclear Cell],G394,3,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G992-2,G992-551,G992-[Peripheral Blood Mononuclear Cell],551,[Peripheral Blood Mononuclear Cell],G992,2,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G200-4-1,G200-244-969,G200-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],969,[Patient Derived Neural Stem Cell],244,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G765-1,G765-485,G765-[Peripheral Blood Mononuclear Cell],485,[Peripheral Blood Mononuclear Cell],G765,1,Spain,TRUE,TRUE,TRUE,TRUE
+G668-2,G668-346,G668-[Primary Tumour Tissue],346,[Primary Tumour Tissue],G668,2,UCL,TRUE,TRUE,TRUE,TRUE
+G283-3-1-1-2,G283-83-539-178-71,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],71,[Xenograph Derive Cell Line],178,2,UCL,TRUE,FALSE,TRUE,TRUE
+G642-2-2-1-1,G642-467-154-860-709,G642-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],709,[Xenograph Derive Cell Line],860,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G364-9-1-1,G364-177-699-765,G364-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],765,[Isogenic Gene Cell Line],699,1,Spain,FALSE,FALSE,TRUE,TRUE
+G835-5-1-1,G835-253-751-144,G835-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],144,[Isogenic Gene Cell Line],751,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G275-2-1-2,G275-1-604-819,G275-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],819,[Isogenic Gene Cell Line],604,2,Edinburgh,TRUE,FALSE,TRUE,FALSE
+G138-3-3-1,G138-858-664-417,G138-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],417,[Engineered GBM Cell Line],664,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G123-1,G123-197,G123-[Primary Tumour Tissue],197,[Primary Tumour Tissue],G123,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G689-3-1,G689-224-7,G689-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],7,[Patient Derived Neural Stem Cell],224,1,Spain,FALSE,TRUE,TRUE,TRUE
+G978-2,G978-712,G978-[Primary Tumour Tissue],712,[Primary Tumour Tissue],G978,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G530-5-1-1,G530-97-662-43,G530-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],43,[Engineered GBM Cell Line],662,1,Spain,TRUE,TRUE,TRUE,TRUE
+G283-2,G283-877,G283-[Human Feotal Primary Tissue],877,[Human Feotal Primary Tissue],G283,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G668-3-1,G668-897-194,G668-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],194,[Human Neural Stem Cell Line],897,1,UCL,TRUE,FALSE,TRUE,TRUE
+G105-3,G105-645,G105-[Peripheral Blood Mononuclear Cell],645,[Peripheral Blood Mononuclear Cell],G105,3,Spain,FALSE,TRUE,TRUE,TRUE
+G588-1,G588-398,G588-[Primary Tumour Tissue],398,[Primary Tumour Tissue],G588,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G105-4-1,G105-80-58,G105-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],58,[Patient Derived Neural Stem Cell],80,1,UCL,TRUE,FALSE,FALSE,TRUE
+G275-5-1,G275-567-632,G275-[Primary Tumour Tissue]-[GBM Cell Line],632,[GBM Cell Line],567,1,UCL,TRUE,TRUE,TRUE,FALSE
+G415-9-1-1,G415-541-50-479,G415-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],479,[Isogenic Gene Cell Line],50,1,UCL,FALSE,TRUE,TRUE,TRUE
+G781-5-2-1,G781-797-288-294,G781-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],294,[Engineered GBM Cell Line],288,1,Spain,TRUE,TRUE,TRUE,TRUE
+G200-5-1,G200-626-484,G200-[Primary Tumour Tissue]-[GBM Cell Line],484,[GBM Cell Line],626,1,Spain,TRUE,FALSE,TRUE,TRUE
+G463-13-1,G463-8-635,G463-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],635,[Human Neural Stem Cell Line],8,1,UCL,TRUE,TRUE,TRUE,TRUE
+G219-1-1,G219-521-582,G219-[Primary Tumour Tissue]-[GBM Cell Line],582,[GBM Cell Line],521,1,UCL,TRUE,TRUE,TRUE,TRUE
+G668-5-1,G668-843-666,G668-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],666,[Human Neural Stem Cell Line],843,1,Spain,FALSE,TRUE,FALSE,TRUE
+G392-3-1,G392-714-125,G392-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],125,[Patient Derived Neural Stem Cell],714,1,Spain,TRUE,TRUE,FALSE,TRUE
+G588-2,G588-659,G588-[Peripheral Blood Mononuclear Cell],659,[Peripheral Blood Mononuclear Cell],G588,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G275-3-1,G275-20-425,G275-[Primary Tumour Tissue]-[GBM Cell Line],425,[GBM Cell Line],20,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G121-2,G121-638,G121-[Peripheral Blood Mononuclear Cell],638,[Peripheral Blood Mononuclear Cell],G121,2,Spain,TRUE,TRUE,TRUE,TRUE
+G468-5-1-1,G468-134-369-269,G468-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],269,[Engineered GBM Cell Line],369,1,UCL,TRUE,TRUE,TRUE,TRUE
+G668-4-1-1,G668-685-686-955,G668-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],955,[Engineered GBM Cell Line],686,1,Spain,TRUE,TRUE,FALSE,FALSE
+G728-5-2-1-1,G728-543-650-747-536,G728-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],536,[Xenograph Derive Cell Line],747,1,Spain,TRUE,TRUE,TRUE,FALSE
+G978-3,G978-482,G978-[Primary Tumour Tissue],482,[Primary Tumour Tissue],G978,3,Spain,TRUE,TRUE,TRUE,TRUE
+G666-16-1-1,G666-863-880-791,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],791,[Isogenic Gene Cell Line],880,1,Spain,TRUE,FALSE,FALSE,TRUE
+G562-9-1-1-1,G562-998-581-202-702,G562-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],702,[Xenograph Derive Cell Line],202,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G219-5-1-1,G219-654-299-28,G219-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],28,[Engineered GBM Cell Line],299,1,Spain,TRUE,TRUE,FALSE,TRUE
+G549-7-1,G549-597-589,G549-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],589,[Patient Derived Neural Stem Cell],597,1,Spain,TRUE,TRUE,TRUE,TRUE
+G970-2,G970-182,G970-[Peripheral Blood Mononuclear Cell],182,[Peripheral Blood Mononuclear Cell],G970,2,Spain,FALSE,TRUE,TRUE,TRUE
+G283-3-1-1,G283-83-539-178,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],178,[Engineered GBM Cell Line],539,1,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G511-5-1,G511-954-930,G511-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],930,[Human Neural Stem Cell Line],954,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G642-1-2-1-1,G642-175-382-104-226,G642-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],226,[Xenograph Derive Cell Line],104,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G666-3,G666-586,G666-[Human Feotal Primary Tissue],586,[Human Feotal Primary Tissue],G666,3,UCL,TRUE,TRUE,TRUE,TRUE
+G72-4-1,G72-331-86,G72-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],86,[Human Neural Stem Cell Line],331,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G835-2,G835-424,G835-[Human Feotal Primary Tissue],424,[Human Feotal Primary Tissue],G835,2,UCL,TRUE,TRUE,FALSE,TRUE
+G666-3-2,G666-586-474,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],474,[Human Neural Stem Cell Line],586,2,Spain,TRUE,TRUE,TRUE,TRUE
+G738-3-2-3-1,G738-49-552-940-778,G738-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],778,[Xenograph Derive Cell Line],940,1,Spain,TRUE,TRUE,TRUE,FALSE
+G86-3,G86-820,G86-[Peripheral Blood Mononuclear Cell],820,[Peripheral Blood Mononuclear Cell],G86,3,UCL,TRUE,TRUE,FALSE,TRUE
+G275-3-2,G275-20-717,G275-[Primary Tumour Tissue]-[GBM Cell Line],717,[GBM Cell Line],20,2,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G549-3-1,G549-314-547,G549-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],547,[Human Neural Stem Cell Line],314,1,Edinburgh,TRUE,FALSE,TRUE,FALSE
+G105-2-1,G105-127-274,G105-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],274,[Patient Derived Neural Stem Cell],127,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G728-5-1,G728-543-952,G728-[Primary Tumour Tissue]-[GBM Cell Line],952,[GBM Cell Line],543,1,Spain,TRUE,TRUE,TRUE,TRUE
+G892-9-1,G892-718-779,G892-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],779,[Human Neural Stem Cell Line],718,1,Edinburgh,FALSE,FALSE,FALSE,TRUE
+G872-6-1,G872-994-54,G872-[Primary Tumour Tissue]-[GBM Cell Line],54,[GBM Cell Line],994,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G415-2,G415-64,G415-[Primary Tumour Tissue],64,[Primary Tumour Tissue],G415,2,UCL,FALSE,TRUE,TRUE,TRUE
+G219-6-1,G219-821-248,G219-[Primary Tumour Tissue]-[GBM Cell Line],248,[GBM Cell Line],821,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G464-1,G464-648,G464-[Human Feotal Primary Tissue],648,[Human Feotal Primary Tissue],G464,1,UCL,TRUE,TRUE,TRUE,TRUE
+G781-3-1-1,G781-580-313-192,G781-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],192,[Engineered GBM Cell Line],313,1,Spain,TRUE,TRUE,TRUE,TRUE
+G283-7-2,G283-385-869,G283-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],869,[Patient Derived Neural Stem Cell],385,2,Spain,TRUE,TRUE,TRUE,FALSE
+G105-9-2-1,G105-183-661-851,G105-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],851,[Isogenic Gene Cell Line],661,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G728-5-2-1,G728-543-650-747,G728-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],747,[Engineered GBM Cell Line],650,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G86-3-1,G86-820-444,G86-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],444,[Patient Derived Neural Stem Cell],820,1,UCL,TRUE,FALSE,FALSE,TRUE
+G283-3-1-1-3,G283-83-539-178-733,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],733,[Xenograph Derive Cell Line],178,3,UCL,TRUE,FALSE,TRUE,TRUE
+G283-3,G283-83,G283-[Primary Tumour Tissue],83,[Primary Tumour Tissue],G283,3,Spain,TRUE,FALSE,TRUE,TRUE
+G562-9-2-2,G562-998-565-316,G562-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],316,[Engineered GBM Cell Line],565,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G978-4,G978-903,G978-[Human Feotal Primary Tissue],903,[Human Feotal Primary Tissue],G978,4,Spain,TRUE,TRUE,TRUE,TRUE
+G121-3,G121-602,G121-[Primary Tumour Tissue],602,[Primary Tumour Tissue],G121,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G970-4-1,G970-950-794,G970-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],794,[Human Neural Stem Cell Line],950,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G283-3-1-5-2,G283-83-539-336-390,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],390,[Xenograph Derive Cell Line],336,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G642-3,G642-508,G642-[Human Feotal Primary Tissue],508,[Human Feotal Primary Tissue],G642,3,UCL,TRUE,TRUE,TRUE,TRUE
+G105-9-1,G105-183-14,G105-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],14,[Human Neural Stem Cell Line],183,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G992-3,G992-676,G992-[Primary Tumour Tissue],676,[Primary Tumour Tissue],G992,3,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G394-5-2-1,G394-57-237-93,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],93,[Engineered GBM Cell Line],237,1,Spain,FALSE,TRUE,TRUE,TRUE
+G464-5-1,G464-911-163,G464-[Primary Tumour Tissue]-[GBM Cell Line],163,[GBM Cell Line],911,1,UCL,TRUE,TRUE,TRUE,FALSE
+G588-4-1-1,G588-924-535-388,G588-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],388,[Engineered GBM Cell Line],535,1,UCL,TRUE,TRUE,FALSE,TRUE
+G200-2,G200-223,G200-[Peripheral Blood Mononuclear Cell],223,[Peripheral Blood Mononuclear Cell],G200,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G394-5-1-1,G394-57-892-997,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],997,[Engineered GBM Cell Line],892,1,UCL,TRUE,TRUE,TRUE,TRUE
+G463-14-2-1-1,G463-786-364-919-116,G463-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],116,[Xenograph Derive Cell Line],919,1,UCL,TRUE,TRUE,TRUE,TRUE
+G992-4,G992-538,G992-[Peripheral Blood Mononuclear Cell],538,[Peripheral Blood Mononuclear Cell],G992,4,Spain,TRUE,TRUE,TRUE,TRUE
+G988-9-2-1,G988-17-213-518,G988-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],518,[Engineered GBM Cell Line],213,1,Spain,TRUE,TRUE,TRUE,FALSE
+G105-10-1,G105-859-700,G105-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],700,[Human Neural Stem Cell Line],859,1,UCL,TRUE,TRUE,TRUE,TRUE
+G463-2,G463-235,G463-[Primary Tumour Tissue],235,[Primary Tumour Tissue],G463,2,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G219-5-1-3-1,G219-654-299-323-621,G219-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],621,[Xenograph Derive Cell Line],323,1,UCL,FALSE,TRUE,TRUE,FALSE
+G415-3,G415-834,G415-[Human Feotal Primary Tissue],834,[Human Feotal Primary Tissue],G415,3,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G121-3-1-1,G121-602-271-47,G121-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],47,[Engineered GBM Cell Line],271,1,Spain,TRUE,FALSE,TRUE,FALSE
+G123-2,G123-757,G123-[Peripheral Blood Mononuclear Cell],757,[Peripheral Blood Mononuclear Cell],G123,2,Edinburgh,TRUE,FALSE,TRUE,FALSE
+G200-5-2,G200-626-30,G200-[Primary Tumour Tissue]-[GBM Cell Line],30,[GBM Cell Line],626,2,UCL,TRUE,TRUE,FALSE,TRUE
+G415-3-1,G415-834-675,G415-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],675,[Human Neural Stem Cell Line],834,1,UCL,TRUE,TRUE,TRUE,TRUE
+G219-2,G219-776,G219-[Primary Tumour Tissue],776,[Primary Tumour Tissue],G219,2,UCL,TRUE,TRUE,TRUE,TRUE
+G275-3-3-1-1,G275-20-550-428-669,G275-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],669,[Xenograph Derive Cell Line],428,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G630-2-2,G630-520-389,G630-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],389,[Human Neural Stem Cell Line],520,2,Spain,TRUE,TRUE,TRUE,TRUE
+G121-3-1-2,G121-602-271-129,G121-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],129,[Engineered GBM Cell Line],271,2,UCL,TRUE,FALSE,FALSE,FALSE
+G275-3-2-1,G275-20-717-176,G275-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],176,[Engineered GBM Cell Line],717,1,UCL,TRUE,TRUE,TRUE,TRUE
+G835-4-1-1,G835-301-636-529,G835-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],529,[Engineered GBM Cell Line],636,1,Spain,TRUE,FALSE,TRUE,FALSE
+G873-4-1,G873-861-495,G873-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],495,[Human Neural Stem Cell Line],861,1,Spain,TRUE,TRUE,FALSE,TRUE
+G728-5-2-2,G728-543-650-250,G728-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],250,[Engineered GBM Cell Line],650,2,UCL,FALSE,TRUE,TRUE,TRUE
+G738-3-2-2-1,G738-49-552-231-692,G738-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],692,[Xenograph Derive Cell Line],231,1,UCL,TRUE,TRUE,TRUE,TRUE
+G873-2-1,G873-46-637,G873-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],637,[Patient Derived Neural Stem Cell],46,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G930-4-1,G930-249-889,G930-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],889,[Patient Derived Neural Stem Cell],249,1,Spain,TRUE,TRUE,TRUE,FALSE
+G138-3-3-1-1,G138-858-664-417-496,G138-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],496,[Xenograph Derive Cell Line],417,1,Spain,TRUE,TRUE,TRUE,TRUE
+G511-2,G511-67,G511-[Human Feotal Primary Tissue],67,[Human Feotal Primary Tissue],G511,2,Spain,TRUE,TRUE,TRUE,TRUE
+G275-4,G275-333,G275-[Peripheral Blood Mononuclear Cell],333,[Peripheral Blood Mononuclear Cell],G275,4,UCL,TRUE,TRUE,TRUE,TRUE
+G550-2-2-3,G550-947-932-439,G550-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],439,[Isogenic Gene Cell Line],932,3,Spain,FALSE,TRUE,FALSE,TRUE
+G394-5-2-2,G394-57-237-829,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],829,[Engineered GBM Cell Line],237,2,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G577-5-1,G577-315-985,G577-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],985,[Human Neural Stem Cell Line],315,1,UCL,TRUE,TRUE,FALSE,FALSE
+G293-3-1,G293-56-719,G293-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],719,[Human Neural Stem Cell Line],56,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G468-5-1-1-1,G468-134-369-269-464,G468-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],464,[Xenograph Derive Cell Line],269,1,UCL,TRUE,FALSE,TRUE,TRUE
+G711-1-1,G711-991-770,G711-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],770,[Human Neural Stem Cell Line],991,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G577-1,G577-500,G577-[Primary Tumour Tissue],500,[Primary Tumour Tissue],G577,1,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G872-1,G872-84,G872-[Human Feotal Primary Tissue],84,[Human Feotal Primary Tissue],G872,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G76-3,G76-171,G76-[Primary Tumour Tissue],171,[Primary Tumour Tissue],G76,3,UCL,FALSE,TRUE,TRUE,TRUE
+G415-4,G415-643,G415-[Human Feotal Primary Tissue],643,[Human Feotal Primary Tissue],G415,4,Spain,FALSE,TRUE,FALSE,TRUE
+G219-5-1-1-1,G219-654-299-28-769,G219-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],769,[Xenograph Derive Cell Line],28,1,Spain,FALSE,TRUE,FALSE,TRUE
+G630-1,G630-519,G630-[Human Feotal Primary Tissue],519,[Human Feotal Primary Tissue],G630,1,Spain,FALSE,FALSE,TRUE,FALSE
+G642-4,G642-784,G642-[Primary Tumour Tissue],784,[Primary Tumour Tissue],G642,4,Spain,FALSE,TRUE,TRUE,TRUE
+G364-2,G364-48,G364-[Peripheral Blood Mononuclear Cell],48,[Peripheral Blood Mononuclear Cell],G364,2,Spain,TRUE,TRUE,TRUE,TRUE
+G872-7-1,G872-136-990,G872-[Primary Tumour Tissue]-[GBM Cell Line],990,[GBM Cell Line],136,1,Spain,TRUE,TRUE,TRUE,TRUE
+G105-4,G105-80,G105-[Peripheral Blood Mononuclear Cell],80,[Peripheral Blood Mononuclear Cell],G105,4,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G668-4-2-1,G668-685-343-896,G668-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],896,[Engineered GBM Cell Line],343,1,Spain,TRUE,TRUE,TRUE,FALSE
+G562-1,G562-609,G562-[Primary Tumour Tissue],609,[Primary Tumour Tissue],G562,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G72-2,G72-705,G72-[Primary Tumour Tissue],705,[Primary Tumour Tissue],G72,2,Spain,TRUE,TRUE,TRUE,TRUE
+G463-2-1-2-1,G463-235-993-403-258,G463-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],258,[Xenograph Derive Cell Line],403,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G765-2,G765-625,G765-[Human Feotal Primary Tissue],625,[Human Feotal Primary Tissue],G765,2,Spain,TRUE,TRUE,TRUE,TRUE
+G668-3,G668-897,G668-[Human Feotal Primary Tissue],897,[Human Feotal Primary Tissue],G668,3,Spain,TRUE,TRUE,TRUE,TRUE
+G668-4-1-1-1,G668-685-686-955-332,G668-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],332,[Xenograph Derive Cell Line],955,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G511-1-1,G511-73-668,G511-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],668,[Human Neural Stem Cell Line],73,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G892-1,G892-486,G892-[Peripheral Blood Mononuclear Cell],486,[Peripheral Blood Mononuclear Cell],G892,1,Spain,FALSE,TRUE,FALSE,FALSE
+G463-12-2,G463-121-564,G463-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],564,[Patient Derived Neural Stem Cell],121,2,UCL,TRUE,TRUE,TRUE,TRUE
+G138-3-1-1,G138-858-139-893,G138-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],893,[Engineered GBM Cell Line],139,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G283-3-1-5-3,G283-83-539-336-65,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],65,[Xenograph Derive Cell Line],336,3,Spain,TRUE,TRUE,TRUE,TRUE
+G549-3,G549-314,G549-[Human Feotal Primary Tissue],314,[Human Feotal Primary Tissue],G549,3,UCL,TRUE,TRUE,TRUE,TRUE
+G463-14-1-1,G463-786-214-267,G463-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],267,[Engineered GBM Cell Line],214,1,UCL,TRUE,TRUE,FALSE,TRUE
+G988-9-1-1-1,G988-17-404-574-904,G988-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],904,[Xenograph Derive Cell Line],574,1,UCL,TRUE,TRUE,TRUE,TRUE
+G549-3-1-1,G549-314-547-944,G549-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],944,[Isogenic Gene Cell Line],547,1,Edinburgh,TRUE,FALSE,FALSE,TRUE
+G668-2-1,G668-346-362,G668-[Primary Tumour Tissue]-[GBM Cell Line],362,[GBM Cell Line],346,1,UCL,TRUE,TRUE,FALSE,TRUE
+G464-10-1,G464-329-357,G464-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],357,[Human Neural Stem Cell Line],329,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G872-2,G872-94,G872-[Human Feotal Primary Tissue],94,[Human Feotal Primary Tissue],G872,2,Spain,TRUE,TRUE,FALSE,TRUE
+G668-2-1-1,G668-346-362-397,G668-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],397,[Engineered GBM Cell Line],362,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G978-2-1,G978-712-499,G978-[Primary Tumour Tissue]-[GBM Cell Line],499,[GBM Cell Line],712,1,Edinburgh,FALSE,TRUE,FALSE,FALSE
+G72-4-1-2,G72-331-86-433,G72-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],433,[Isogenic Gene Cell Line],86,2,UCL,TRUE,FALSE,FALSE,TRUE
+G293-3,G293-56,G293-[Human Feotal Primary Tissue],56,[Human Feotal Primary Tissue],G293,3,UCL,TRUE,TRUE,FALSE,TRUE
+G666-4,G666-725,G666-[Peripheral Blood Mononuclear Cell],725,[Peripheral Blood Mononuclear Cell],G666,4,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G666-5,G666-871,G666-[Primary Tumour Tissue],871,[Primary Tumour Tissue],G666,5,Spain,TRUE,TRUE,TRUE,TRUE
+G628-1,G628-32,G628-[Peripheral Blood Mononuclear Cell],32,[Peripheral Blood Mononuclear Cell],G628,1,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G964-2-1-1,G964-975-261-973,G964-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],973,[Isogenic Gene Cell Line],261,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G738-1,G738-151,G738-[Peripheral Blood Mononuclear Cell],151,[Peripheral Blood Mononuclear Cell],G738,1,UCL,TRUE,TRUE,TRUE,TRUE
+G123-3,G123-298,G123-[Primary Tumour Tissue],298,[Primary Tumour Tissue],G123,3,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G666-6,G666-822,G666-[Peripheral Blood Mononuclear Cell],822,[Peripheral Blood Mononuclear Cell],G666,6,Spain,TRUE,TRUE,FALSE,TRUE
+G951-1-1-2,G951-910-948-198,G951-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],198,[Isogenic Gene Cell Line],948,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G530-6-1,G530-760-150,G530-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],150,[Patient Derived Neural Stem Cell],760,1,UCL,TRUE,TRUE,FALSE,TRUE
+G835-4-2-2,G835-301-307-168,G835-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],168,[Engineered GBM Cell Line],307,2,UCL,FALSE,TRUE,TRUE,TRUE
+G872-3,G872-517,G872-[Primary Tumour Tissue],517,[Primary Tumour Tissue],G872,3,Spain,TRUE,TRUE,TRUE,TRUE
+G628-2,G628-506,G628-[Primary Tumour Tissue],506,[Primary Tumour Tissue],G628,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G738-2,G738-982,G738-[Primary Tumour Tissue],982,[Primary Tumour Tissue],G738,2,Spain,FALSE,TRUE,TRUE,TRUE
+G951-1,G951-910,G951-[Human Feotal Primary Tissue],910,[Human Feotal Primary Tissue],G951,1,UCL,TRUE,TRUE,TRUE,TRUE
+G666-7,G666-953,G666-[Human Feotal Primary Tissue],953,[Human Feotal Primary Tissue],G666,7,Spain,TRUE,TRUE,TRUE,TRUE
+G711-4,G711-957,G711-[Human Feotal Primary Tissue],957,[Human Feotal Primary Tissue],G711,4,Spain,TRUE,TRUE,FALSE,TRUE
+G835-3,G835-972,G835-[Peripheral Blood Mononuclear Cell],972,[Peripheral Blood Mononuclear Cell],G835,3,Spain,TRUE,TRUE,TRUE,TRUE
+G219-1-2,G219-521-792,G219-[Primary Tumour Tissue]-[GBM Cell Line],792,[GBM Cell Line],521,2,UCL,FALSE,TRUE,FALSE,TRUE
+G72-2-1-1,G72-705-494-802,G72-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],802,[Engineered GBM Cell Line],494,1,Spain,TRUE,TRUE,TRUE,TRUE
+G765-3,G765-601,G765-[Primary Tumour Tissue],601,[Primary Tumour Tissue],G765,3,UCL,TRUE,TRUE,TRUE,TRUE
+G930-1-1,G930-305-63,G930-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],63,[Human Neural Stem Cell Line],305,1,UCL,TRUE,TRUE,TRUE,TRUE
+G642-2-1-1,G642-467-445-99,G642-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],99,[Engineered GBM Cell Line],445,1,Spain,TRUE,FALSE,FALSE,TRUE
+G781-5-2,G781-797-288,G781-[Primary Tumour Tissue]-[GBM Cell Line],288,[GBM Cell Line],797,2,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G892-2,G892-771,G892-[Peripheral Blood Mononuclear Cell],771,[Peripheral Blood Mononuclear Cell],G892,2,Spain,TRUE,TRUE,TRUE,TRUE
+G642-3-1,G642-508-931,G642-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],931,[Human Neural Stem Cell Line],508,1,Spain,TRUE,TRUE,FALSE,TRUE
+G283-5-1-1-1,G283-12-376-758-925,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],925,[Xenograph Derive Cell Line],758,1,UCL,TRUE,TRUE,FALSE,TRUE
+G873-6-1-2-1,G873-749-996-741-854,G873-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],854,[Xenograph Derive Cell Line],741,1,Spain,TRUE,TRUE,TRUE,TRUE
+G873-6-2-1-2,G873-749-743-434-628,G873-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],628,[Xenograph Derive Cell Line],434,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G123-1-1,G123-197-526,G123-[Primary Tumour Tissue]-[GBM Cell Line],526,[GBM Cell Line],197,1,UCL,FALSE,TRUE,TRUE,TRUE
+G689-1-1,G689-872-243,G689-[Primary Tumour Tissue]-[GBM Cell Line],243,[GBM Cell Line],872,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G275-4-1,G275-333-707,G275-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],707,[Patient Derived Neural Stem Cell],333,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G123-4-1,G123-788-853,G123-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],853,[Patient Derived Neural Stem Cell],788,1,UCL,TRUE,TRUE,TRUE,TRUE
+G562-2,G562-227,G562-[Primary Tumour Tissue],227,[Primary Tumour Tissue],G562,2,Spain,TRUE,TRUE,TRUE,FALSE
+G105-9-2,G105-183-661,G105-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],661,[Human Neural Stem Cell Line],183,2,Spain,TRUE,TRUE,TRUE,TRUE
+G577-8-1,G577-117-807,G577-[Primary Tumour Tissue]-[GBM Cell Line],807,[GBM Cell Line],117,1,UCL,TRUE,FALSE,FALSE,TRUE
+G530-8-1-1,G530-598-160-184,G530-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],184,[Isogenic Gene Cell Line],160,1,Spain,FALSE,TRUE,TRUE,TRUE
+G511-3,G511-810,G511-[Peripheral Blood Mononuclear Cell],810,[Peripheral Blood Mononuclear Cell],G511,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G577-4-4-1,G577-268-320-857,G577-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],857,[Engineered GBM Cell Line],320,1,UCL,TRUE,TRUE,FALSE,TRUE
+G964-2,G964-975,G964-[Human Feotal Primary Tissue],975,[Human Feotal Primary Tissue],G964,2,Spain,FALSE,TRUE,TRUE,TRUE
+G642-2-2-2,G642-467-154-620,G642-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],620,[Engineered GBM Cell Line],154,2,UCL,FALSE,TRUE,TRUE,TRUE
+G283-4,G283-348,G283-[Peripheral Blood Mononuclear Cell],348,[Peripheral Blood Mononuclear Cell],G283,4,Spain,TRUE,TRUE,TRUE,TRUE
+G509-2-1,G509-839-100,G509-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],100,[Patient Derived Neural Stem Cell],839,1,Spain,TRUE,TRUE,TRUE,FALSE
+G219-3,G219-247,G219-[Peripheral Blood Mononuclear Cell],247,[Peripheral Blood Mononuclear Cell],G219,3,UCL,TRUE,TRUE,TRUE,FALSE
+G549-4-1,G549-491-432,G549-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],432,[Patient Derived Neural Stem Cell],491,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G468-5-1,G468-134-369,G468-[Primary Tumour Tissue]-[GBM Cell Line],369,[GBM Cell Line],134,1,UCL,TRUE,TRUE,TRUE,TRUE
+G781-3,G781-580,G781-[Primary Tumour Tissue],580,[Primary Tumour Tissue],G781,3,Spain,TRUE,TRUE,TRUE,TRUE
+G72-5-1,G72-795-79,G72-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],79,[Patient Derived Neural Stem Cell],795,1,Spain,TRUE,TRUE,FALSE,FALSE
+G530-3-1-1,G530-325-355-689,G530-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],689,[Isogenic Gene Cell Line],355,1,Spain,FALSE,TRUE,FALSE,TRUE
+G577-6-1,G577-9-174,G577-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],174,[Patient Derived Neural Stem Cell],9,1,Spain,TRUE,TRUE,TRUE,TRUE
+G123-3-2-1,G123-298-471-824,G123-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],824,[Engineered GBM Cell Line],471,1,UCL,FALSE,TRUE,FALSE,TRUE
+G892-3,G892-441,G892-[Peripheral Blood Mononuclear Cell],441,[Peripheral Blood Mononuclear Cell],G892,3,UCL,TRUE,TRUE,TRUE,TRUE
+G530-2-1-1,G530-974-393-934,G530-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],934,[Engineered GBM Cell Line],393,1,UCL,FALSE,FALSE,TRUE,TRUE
+G200-5-2-1-2,G200-626-30-622-673,G200-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],673,[Xenograph Derive Cell Line],622,2,UCL,TRUE,FALSE,TRUE,TRUE
+G463-14-1-3-1,G463-786-214-756-189,G463-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],189,[Xenograph Derive Cell Line],756,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G642-8-1,G642-459-532,G642-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],532,[Human Neural Stem Cell Line],459,1,UCL,TRUE,FALSE,TRUE,TRUE
+G392-3,G392-714,G392-[Peripheral Blood Mononuclear Cell],714,[Peripheral Blood Mononuclear Cell],G392,3,Spain,TRUE,TRUE,TRUE,TRUE
+G588-1-1,G588-398-630,G588-[Primary Tumour Tissue]-[GBM Cell Line],630,[GBM Cell Line],398,1,Edinburgh,TRUE,FALSE,TRUE,FALSE
+G666-3-2-1,G666-586-474-936,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],936,[Isogenic Gene Cell Line],474,1,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G872-1-1,G872-84-640,G872-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],640,[Human Neural Stem Cell Line],84,1,Spain,TRUE,TRUE,TRUE,TRUE
+G738-3-1,G738-49-431,G738-[Primary Tumour Tissue]-[GBM Cell Line],431,[GBM Cell Line],49,1,UCL,TRUE,TRUE,TRUE,TRUE
+G781-4,G781-677,G781-[Human Feotal Primary Tissue],677,[Human Feotal Primary Tissue],G781,4,Spain,TRUE,TRUE,TRUE,TRUE
+G549-2-1,G549-759-693,G549-[Primary Tumour Tissue]-[GBM Cell Line],693,[GBM Cell Line],759,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G293-1-1-1-1,G293-275-324-25-157,G293-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],157,[Xenograph Derive Cell Line],25,1,UCL,TRUE,TRUE,TRUE,TRUE
+G76-4,G76-811,G76-[Human Feotal Primary Tissue],811,[Human Feotal Primary Tissue],G76,4,Spain,TRUE,TRUE,TRUE,TRUE
+G550-2-1,G550-947-53,G550-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],53,[Human Neural Stem Cell Line],947,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G138-5-1-1,G138-399-837-933,G138-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],933,[Engineered GBM Cell Line],837,1,UCL,TRUE,TRUE,TRUE,FALSE
+G138-4-1,G138-619-978,G138-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],978,[Human Neural Stem Cell Line],619,1,Spain,TRUE,TRUE,TRUE,TRUE
+G463-3,G463-624,G463-[Human Feotal Primary Tissue],624,[Human Feotal Primary Tissue],G463,3,Spain,TRUE,FALSE,TRUE,TRUE
+G364-3,G364-23,G364-[Human Feotal Primary Tissue],23,[Human Feotal Primary Tissue],G364,3,Edinburgh,FALSE,TRUE,FALSE,FALSE
+G293-2-1,G293-945-745,G293-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],745,[Patient Derived Neural Stem Cell],945,1,UCL,FALSE,TRUE,FALSE,TRUE
+G562-6-1-1,G562-548-883-106,G562-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],106,[Engineered GBM Cell Line],883,1,Spain,TRUE,TRUE,TRUE,FALSE
+G642-3-2,G642-508-278,G642-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],278,[Human Neural Stem Cell Line],508,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G642-1-1,G642-175-101,G642-[Primary Tumour Tissue]-[GBM Cell Line],101,[GBM Cell Line],175,1,Edinburgh,FALSE,TRUE,FALSE,TRUE
+G275-5,G275-567,G275-[Primary Tumour Tissue],567,[Primary Tumour Tissue],G275,5,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G988-3-1,G988-327-89,G988-[Primary Tumour Tissue]-[GBM Cell Line],89,[GBM Cell Line],327,1,Spain,TRUE,TRUE,TRUE,TRUE
+G642-1-2,G642-175-382,G642-[Primary Tumour Tissue]-[GBM Cell Line],382,[GBM Cell Line],175,2,UCL,TRUE,FALSE,TRUE,TRUE
+G642-1-2-1,G642-175-382-104,G642-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],104,[Engineered GBM Cell Line],382,1,UCL,FALSE,TRUE,TRUE,FALSE
+G873-1,G873-339,G873-[Peripheral Blood Mononuclear Cell],339,[Peripheral Blood Mononuclear Cell],G873,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G642-1-3,G642-175-210,G642-[Primary Tumour Tissue]-[GBM Cell Line],210,[GBM Cell Line],175,3,Spain,TRUE,TRUE,TRUE,TRUE
+G105-10-2,G105-859-875,G105-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],875,[Human Neural Stem Cell Line],859,2,UCL,TRUE,TRUE,TRUE,TRUE
+G930-2-1,G930-762-748,G930-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],748,[Patient Derived Neural Stem Cell],762,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G628-2-1,G628-506-862,G628-[Primary Tumour Tissue]-[GBM Cell Line],862,[GBM Cell Line],506,1,Spain,TRUE,FALSE,TRUE,TRUE
+G951-3-2,G951-525-803,G951-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],803,[Patient Derived Neural Stem Cell],525,2,UCL,TRUE,FALSE,TRUE,TRUE
+G872-1-3-1,G872-84-987-656,G872-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],656,[Isogenic Gene Cell Line],987,1,Spain,TRUE,FALSE,TRUE,TRUE
+G728-1-1,G728-750-392,G728-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],392,[Patient Derived Neural Stem Cell],750,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G283-5-1-1-2,G283-12-376-758-414,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],414,[Xenograph Derive Cell Line],758,2,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G364-7-1,G364-118-55,G364-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],55,[Patient Derived Neural Stem Cell],118,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G463-4,G463-155,G463-[Peripheral Blood Mononuclear Cell],155,[Peripheral Blood Mononuclear Cell],G463,4,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G988-1,G988-51,G988-[Peripheral Blood Mononuclear Cell],51,[Peripheral Blood Mononuclear Cell],G988,1,UCL,TRUE,TRUE,FALSE,TRUE
+G463-6-1,G463-229-287,G463-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],287,[Human Neural Stem Cell Line],229,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G464-2,G464-38,G464-[Peripheral Blood Mononuclear Cell],38,[Peripheral Blood Mononuclear Cell],G464,2,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G464-10-1-1,G464-329-357-165,G464-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],165,[Isogenic Gene Cell Line],357,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G666-8,G666-252,G666-[Peripheral Blood Mononuclear Cell],252,[Peripheral Blood Mononuclear Cell],G666,8,UCL,TRUE,TRUE,TRUE,TRUE
+G562-6-1,G562-548-883,G562-[Primary Tumour Tissue]-[GBM Cell Line],883,[GBM Cell Line],548,1,UCL,TRUE,TRUE,TRUE,TRUE
+G738-3-2-1,G738-49-552-528,G738-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],528,[Engineered GBM Cell Line],552,1,Spain,TRUE,TRUE,TRUE,TRUE
+G72-3,G72-85,G72-[Peripheral Blood Mononuclear Cell],85,[Peripheral Blood Mononuclear Cell],G72,3,UCL,FALSE,TRUE,TRUE,TRUE
+G105-5,G105-629,G105-[Primary Tumour Tissue],629,[Primary Tumour Tissue],G105,5,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G872-1-2,G872-84-681,G872-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],681,[Human Neural Stem Cell Line],84,2,Edinburgh,FALSE,TRUE,TRUE,FALSE
+G668-4-2,G668-685-343,G668-[Primary Tumour Tissue]-[GBM Cell Line],343,[GBM Cell Line],685,2,Edinburgh,FALSE,TRUE,TRUE,FALSE
+G511-4,G511-167,G511-[Peripheral Blood Mononuclear Cell],167,[Peripheral Blood Mononuclear Cell],G511,4,UCL,TRUE,TRUE,TRUE,FALSE
+G415-5,G415-876,G415-[Primary Tumour Tissue],876,[Primary Tumour Tissue],G415,5,Spain,FALSE,TRUE,TRUE,TRUE
+G463-14-1,G463-786-214,G463-[Primary Tumour Tissue]-[GBM Cell Line],214,[GBM Cell Line],786,1,UCL,TRUE,TRUE,TRUE,TRUE
+G872-6-1-1,G872-994-54-415,G872-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],415,[Engineered GBM Cell Line],54,1,UCL,TRUE,TRUE,TRUE,TRUE
+G668-4-3-1-1,G668-685-981-777-344,G668-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],344,[Xenograph Derive Cell Line],777,1,Spain,TRUE,FALSE,TRUE,TRUE
+G666-7-1-1,G666-953-391-752,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],752,[Isogenic Gene Cell Line],391,1,Spain,TRUE,TRUE,TRUE,TRUE
+G464-3-1,G464-208-663,G464-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],663,[Human Neural Stem Cell Line],208,1,UCL,TRUE,TRUE,TRUE,TRUE
+G394-2-2-1-1,G394-534-501-126-221,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],221,[Xenograph Derive Cell Line],126,1,UCL,TRUE,TRUE,TRUE,FALSE
+G628-3,G628-265,G628-[Peripheral Blood Mononuclear Cell],265,[Peripheral Blood Mononuclear Cell],G628,3,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G105-6,G105-801,G105-[Peripheral Blood Mononuclear Cell],801,[Peripheral Blood Mononuclear Cell],G105,6,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G464-6-1,G464-212-245,G464-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],245,[Human Neural Stem Cell Line],212,1,UCL,TRUE,TRUE,FALSE,TRUE
+G275-3-3-1-2,G275-20-550-428-413,G275-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],413,[Xenograph Derive Cell Line],428,2,Edinburgh,TRUE,FALSE,TRUE,FALSE
+G549-2-2-1,G549-759-461-66,G549-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],66,[Engineered GBM Cell Line],461,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G511-7-1-1,G511-334-557-849,G511-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],849,[Engineered GBM Cell Line],557,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G964-1-1,G964-617-926,G964-[Primary Tumour Tissue]-[GBM Cell Line],926,[GBM Cell Line],617,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G892-3-1,G892-441-230,G892-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],230,[Patient Derived Neural Stem Cell],441,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G138-4,G138-619,G138-[Human Feotal Primary Tissue],619,[Human Feotal Primary Tissue],G138,4,Spain,TRUE,FALSE,TRUE,TRUE
+G577-2,G577-890,G577-[Peripheral Blood Mononuclear Cell],890,[Peripheral Blood Mononuclear Cell],G577,2,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G364-3-1,G364-23-606,G364-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],606,[Human Neural Stem Cell Line],23,1,UCL,FALSE,TRUE,TRUE,FALSE
+G872-4,G872-507,G872-[Peripheral Blood Mononuclear Cell],507,[Peripheral Blood Mononuclear Cell],G872,4,UCL,FALSE,TRUE,TRUE,FALSE
+G464-2-1,G464-38-570,G464-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],570,[Patient Derived Neural Stem Cell],38,1,Spain,TRUE,TRUE,TRUE,TRUE
+G549-4,G549-491,G549-[Peripheral Blood Mononuclear Cell],491,[Peripheral Blood Mononuclear Cell],G549,4,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G283-5-1-1,G283-12-376-758,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],758,[Engineered GBM Cell Line],376,1,UCL,TRUE,TRUE,TRUE,FALSE
+G765-4,G765-913,G765-[Primary Tumour Tissue],913,[Primary Tumour Tissue],G765,4,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G464-3,G464-208,G464-[Human Feotal Primary Tissue],208,[Human Feotal Primary Tissue],G464,3,UCL,TRUE,TRUE,TRUE,FALSE
+G283-3-1-2,G283-83-539-730,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],730,[Engineered GBM Cell Line],539,2,Spain,TRUE,TRUE,TRUE,TRUE
+G463-14-2,G463-786-364,G463-[Primary Tumour Tissue]-[GBM Cell Line],364,[GBM Cell Line],786,2,UCL,TRUE,TRUE,TRUE,TRUE
+G283-5-1-2,G283-12-376-179,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],179,[Engineered GBM Cell Line],376,2,UCL,TRUE,FALSE,TRUE,TRUE
+G668-4-1-2,G668-685-686-280,G668-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],280,[Engineered GBM Cell Line],686,2,Spain,TRUE,TRUE,FALSE,TRUE
+G464-1-1,G464-648-870,G464-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],870,[Human Neural Stem Cell Line],648,1,UCL,TRUE,FALSE,TRUE,FALSE
+G970-4-1-2,G970-950-794-721,G970-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],721,[Isogenic Gene Cell Line],794,2,Spain,TRUE,TRUE,TRUE,FALSE
+G642-8-2-2,G642-459-322-691,G642-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],691,[Isogenic Gene Cell Line],322,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G509-2,G509-839,G509-[Peripheral Blood Mononuclear Cell],839,[Peripheral Blood Mononuclear Cell],G509,2,Spain,TRUE,TRUE,TRUE,TRUE
+G988-3-1-1-2,G988-327-89-592-75,G988-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],75,[Xenograph Derive Cell Line],592,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G666-9,G666-386,G666-[Peripheral Blood Mononuclear Cell],386,[Peripheral Blood Mononuclear Cell],G666,9,Edinburgh,TRUE,FALSE,FALSE,TRUE
+G728-2,G728-768,G728-[Primary Tumour Tissue],768,[Primary Tumour Tissue],G728,2,Spain,TRUE,TRUE,FALSE,TRUE
+G666-13-1,G666-885-755,G666-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],755,[Patient Derived Neural Stem Cell],885,1,Spain,TRUE,FALSE,TRUE,TRUE
+G892-4,G892-295,G892-[Human Feotal Primary Tissue],295,[Human Feotal Primary Tissue],G892,4,UCL,TRUE,TRUE,FALSE,TRUE
+G468-4-1,G468-365-340,G468-[Primary Tumour Tissue]-[GBM Cell Line],340,[GBM Cell Line],365,1,UCL,TRUE,TRUE,TRUE,TRUE
+G872-5,G872-942,G872-[Peripheral Blood Mononuclear Cell],942,[Peripheral Blood Mononuclear Cell],G872,5,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G86-4,G86-900,G86-[Primary Tumour Tissue],900,[Primary Tumour Tissue],G86,4,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G642-8-2,G642-459-322,G642-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],322,[Human Neural Stem Cell Line],459,2,UCL,TRUE,TRUE,TRUE,TRUE
+G666-3-1-1,G666-586-487-131,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],131,[Isogenic Gene Cell Line],487,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G138-5,G138-399,G138-[Primary Tumour Tissue],399,[Primary Tumour Tissue],G138,5,Spain,TRUE,TRUE,FALSE,TRUE
+G364-4,G364-682,G364-[Primary Tumour Tissue],682,[Primary Tumour Tissue],G364,4,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G200-3,G200-720,G200-[Primary Tumour Tissue],720,[Primary Tumour Tissue],G200,3,Spain,FALSE,TRUE,FALSE,TRUE
+G72-5-2,G72-795-855,G72-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],855,[Patient Derived Neural Stem Cell],795,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G468-4-2,G468-365-418,G468-[Primary Tumour Tissue]-[GBM Cell Line],418,[GBM Cell Line],365,2,Spain,TRUE,TRUE,FALSE,FALSE
+G632-4,G632-232,G632-[Primary Tumour Tissue],232,[Primary Tumour Tissue],G632,4,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G200-5-2-1,G200-626-30-622,G200-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],622,[Engineered GBM Cell Line],30,1,UCL,FALSE,TRUE,TRUE,FALSE
+G970-4-2,G970-950-201,G970-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],201,[Human Neural Stem Cell Line],950,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G511-4-2,G511-167-257,G511-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],257,[Patient Derived Neural Stem Cell],167,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G738-3,G738-49,G738-[Primary Tumour Tissue],49,[Primary Tumour Tissue],G738,3,Spain,TRUE,TRUE,TRUE,TRUE
+G530-1,G530-406,G530-[Human Feotal Primary Tissue],406,[Human Feotal Primary Tissue],G530,1,Spain,TRUE,TRUE,TRUE,TRUE
+G415-6,G415-281,G415-[Peripheral Blood Mononuclear Cell],281,[Peripheral Blood Mononuclear Cell],G415,6,Spain,TRUE,TRUE,TRUE,TRUE
+G642-5,G642-549,G642-[Human Feotal Primary Tissue],549,[Human Feotal Primary Tissue],G642,5,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G873-6-2-1-3,G873-749-743-434-345,G873-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],345,[Xenograph Derive Cell Line],434,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G415-7,G415-816,G415-[Peripheral Blood Mononuclear Cell],816,[Peripheral Blood Mononuclear Cell],G415,7,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G138-6-1-1,G138-812-411-809,G138-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],809,[Isogenic Gene Cell Line],411,1,Spain,TRUE,TRUE,TRUE,TRUE
+G72-5-3,G72-795-45,G72-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],45,[Patient Derived Neural Stem Cell],795,3,UCL,TRUE,TRUE,TRUE,TRUE
+G562-3,G562-616,G562-[Human Feotal Primary Tissue],616,[Human Feotal Primary Tissue],G562,3,UCL,TRUE,TRUE,TRUE,TRUE
+G463-5,G463-473,G463-[Primary Tumour Tissue],473,[Primary Tumour Tissue],G463,5,UCL,FALSE,TRUE,TRUE,TRUE
+G988-3-2,G988-327-338,G988-[Primary Tumour Tissue]-[GBM Cell Line],338,[GBM Cell Line],327,2,Spain,FALSE,TRUE,TRUE,TRUE
+G463-6,G463-229,G463-[Human Feotal Primary Tissue],229,[Human Feotal Primary Tissue],G463,6,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G562-4,G562-21,G562-[Primary Tumour Tissue],21,[Primary Tumour Tissue],G562,4,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G283-5-1-3,G283-12-376-372,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],372,[Engineered GBM Cell Line],376,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G138-6-1,G138-812-411,G138-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],411,[Human Neural Stem Cell Line],812,1,Edinburgh,TRUE,FALSE,FALSE,TRUE
+G992-5-1,G992-359-449,G992-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],449,[Human Neural Stem Cell Line],359,1,Spain,TRUE,TRUE,FALSE,TRUE
+G530-5-1-2,G530-97-662-113,G530-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],113,[Engineered GBM Cell Line],662,2,UCL,TRUE,TRUE,TRUE,TRUE
+G562-9-2-1-1,G562-998-565-530-238,G562-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],238,[Xenograph Derive Cell Line],530,1,Spain,TRUE,TRUE,TRUE,TRUE
+G463-14-2-1,G463-786-364-919,G463-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],919,[Engineered GBM Cell Line],364,1,UCL,TRUE,FALSE,TRUE,TRUE
+G275-2-1,G275-1-604,G275-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],604,[Human Neural Stem Cell Line],1,1,UCL,TRUE,TRUE,TRUE,TRUE
+G464-4-1-1,G464-591-555-544,G464-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],544,[Isogenic Gene Cell Line],555,1,UCL,FALSE,FALSE,TRUE,TRUE
+G394-5-2,G394-57-237,G394-[Primary Tumour Tissue]-[GBM Cell Line],237,[GBM Cell Line],57,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G415-9-2-1,G415-541-188-667,G415-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],667,[Isogenic Gene Cell Line],188,1,UCL,TRUE,TRUE,TRUE,FALSE
+G738-2-2-2-1,G738-982-831-651-321,G738-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],321,[Xenograph Derive Cell Line],651,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G123-3-1-1,G123-298-166-701,G123-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],701,[Engineered GBM Cell Line],166,1,Spain,TRUE,FALSE,TRUE,FALSE
+G138-8-1-2-1,G138-120-266-522-282,G138-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],282,[Xenograph Derive Cell Line],522,1,Spain,TRUE,TRUE,TRUE,FALSE
+G642-3-2-1,G642-508-278-409,G642-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],409,[Isogenic Gene Cell Line],278,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G511-5,G511-954,G511-[Human Feotal Primary Tissue],954,[Human Feotal Primary Tissue],G511,5,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G415-8,G415-503,G415-[Primary Tumour Tissue],503,[Primary Tumour Tissue],G415,8,UCL,TRUE,TRUE,TRUE,TRUE
+G930-1-1-1,G930-305-63-515,G930-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],515,[Isogenic Gene Cell Line],63,1,UCL,TRUE,TRUE,TRUE,TRUE
+G668-4,G668-685,G668-[Primary Tumour Tissue],685,[Primary Tumour Tissue],G668,4,Spain,TRUE,TRUE,TRUE,TRUE
+G121-1-1,G121-76-923,G121-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],923,[Human Neural Stem Cell Line],76,1,Spain,TRUE,TRUE,TRUE,TRUE
+G689-2,G689-203,G689-[Primary Tumour Tissue],203,[Primary Tumour Tissue],G689,2,Spain,TRUE,TRUE,TRUE,TRUE
+G138-8-1-1-1,G138-120-266-977-696,G138-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],696,[Xenograph Derive Cell Line],977,1,UCL,TRUE,TRUE,TRUE,TRUE
+G577-3,G577-716,G577-[Primary Tumour Tissue],716,[Primary Tumour Tissue],G577,3,UCL,TRUE,TRUE,TRUE,FALSE
+G711-3-1,G711-633-124,G711-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],124,[Patient Derived Neural Stem Cell],633,1,UCL,TRUE,TRUE,TRUE,TRUE
+G511-6,G511-219,G511-[Primary Tumour Tissue],219,[Primary Tumour Tissue],G511,6,Spain,TRUE,TRUE,TRUE,FALSE
+G86-8-1-1-1,G86-742-959-443-88,G86-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],88,[Xenograph Derive Cell Line],443,1,UCL,TRUE,TRUE,TRUE,TRUE
+G577-4,G577-268,G577-[Primary Tumour Tissue],268,[Primary Tumour Tissue],G577,4,UCL,TRUE,TRUE,TRUE,FALSE
+G283-3-1-3,G283-83-539-729,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],729,[Engineered GBM Cell Line],539,3,UCL,TRUE,TRUE,TRUE,TRUE
+G509-3-1,G509-217-895,G509-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],895,[Human Neural Stem Cell Line],217,1,Spain,TRUE,FALSE,TRUE,FALSE
+G835-4,G835-301,G835-[Primary Tumour Tissue],301,[Primary Tumour Tissue],G835,4,Spain,TRUE,TRUE,TRUE,TRUE
+G988-1-1,G988-51-684,G988-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],684,[Patient Derived Neural Stem Cell],51,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G668-4-1-1-2,G668-685-686-955-874,G668-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],874,[Xenograph Derive Cell Line],955,2,UCL,FALSE,TRUE,TRUE,TRUE
+G711-5,G711-905,G711-[Human Feotal Primary Tissue],905,[Human Feotal Primary Tissue],G711,5,Spain,TRUE,TRUE,TRUE,FALSE
+G530-3-1,G530-325-355,G530-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],355,[Human Neural Stem Cell Line],325,1,UCL,TRUE,TRUE,FALSE,TRUE
+G988-2,G988-457,G988-[Primary Tumour Tissue],457,[Primary Tumour Tissue],G988,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G463-7,G463-703,G463-[Peripheral Blood Mononuclear Cell],703,[Peripheral Blood Mononuclear Cell],G463,7,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G992-5-1-1,G992-359-449-706,G992-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],706,[Isogenic Gene Cell Line],449,1,Spain,FALSE,FALSE,TRUE,FALSE
+G105-10-1-1,G105-859-700-607,G105-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],607,[Isogenic Gene Cell Line],700,1,Spain,TRUE,TRUE,TRUE,FALSE
+G668-4-1-1-3,G668-685-686-955-375,G668-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],375,[Xenograph Derive Cell Line],955,3,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G666-15-2,G666-317-6,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],6,[Human Neural Stem Cell Line],317,2,Spain,TRUE,TRUE,TRUE,TRUE
+G219-1-2-1-2,G219-521-792-354-3,G219-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],3,[Xenograph Derive Cell Line],354,2,UCL,FALSE,TRUE,TRUE,FALSE
+G666-7-1-2,G666-953-391-173,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],173,[Isogenic Gene Cell Line],391,2,Spain,FALSE,FALSE,TRUE,TRUE
+G588-3,G588-531,G588-[Peripheral Blood Mononuclear Cell],531,[Peripheral Blood Mononuclear Cell],G588,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G549-5,G549-856,G549-[Human Feotal Primary Tissue],856,[Human Feotal Primary Tissue],G549,5,Spain,TRUE,TRUE,TRUE,TRUE
+G123-3-2-2-1,G123-298-471-772-453,G123-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],453,[Xenograph Derive Cell Line],772,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G200-4,G200-244,G200-[Peripheral Blood Mononuclear Cell],244,[Peripheral Blood Mononuclear Cell],G200,4,UCL,TRUE,TRUE,FALSE,TRUE
+G738-4,G738-319,G738-[Primary Tumour Tissue],319,[Primary Tumour Tissue],G738,4,UCL,TRUE,TRUE,TRUE,TRUE
+G642-2-1,G642-467-445,G642-[Primary Tumour Tissue]-[GBM Cell Line],445,[GBM Cell Line],467,1,UCL,TRUE,TRUE,TRUE,TRUE
+G781-5,G781-797,G781-[Primary Tumour Tissue],797,[Primary Tumour Tissue],G781,5,Spain,FALSE,TRUE,TRUE,TRUE
+G549-2-2-1-1,G549-759-461-66-132,G549-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],132,[Xenograph Derive Cell Line],66,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G86-4-1-1,G86-900-289-868,G86-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],868,[Engineered GBM Cell Line],289,1,UCL,TRUE,TRUE,TRUE,TRUE
+G464-4-1,G464-591-555,G464-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],555,[Human Neural Stem Cell Line],591,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G988-8-3-1,G988-694-695-916,G988-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],916,[Isogenic Gene Cell Line],695,1,UCL,TRUE,TRUE,TRUE,TRUE
+G666-8-1,G666-252-170,G666-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],170,[Patient Derived Neural Stem Cell],252,1,UCL,TRUE,TRUE,TRUE,TRUE
+G781-3-1-2,G781-580-313-734,G781-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],734,[Engineered GBM Cell Line],313,2,Spain,FALSE,TRUE,FALSE,TRUE
+G463-13-2-1,G463-8-887-949,G463-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],949,[Isogenic Gene Cell Line],887,1,UCL,FALSE,TRUE,TRUE,FALSE
+G666-16-1-2,G666-863-880-490,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],490,[Isogenic Gene Cell Line],880,2,UCL,TRUE,TRUE,TRUE,TRUE
+G283-5,G283-12,G283-[Primary Tumour Tissue],12,[Primary Tumour Tissue],G283,5,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G219-1-2-1,G219-521-792-354,G219-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],354,[Engineered GBM Cell Line],792,1,UCL,TRUE,TRUE,TRUE,TRUE
+G463-2-1-2-2,G463-235-993-403-15,G463-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],15,[Xenograph Derive Cell Line],403,2,UCL,TRUE,TRUE,TRUE,TRUE
+G293-1-1-1,G293-275-324-25,G293-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],25,[Engineered GBM Cell Line],324,1,UCL,TRUE,TRUE,FALSE,TRUE
+G668-5,G668-843,G668-[Human Feotal Primary Tissue],843,[Human Feotal Primary Tissue],G668,5,UCL,TRUE,TRUE,TRUE,TRUE
+G123-4-2,G123-788-884,G123-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],884,[Patient Derived Neural Stem Cell],788,2,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G873-6-1-1-2,G873-749-996-644-726,G873-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],726,[Xenograph Derive Cell Line],644,2,UCL,TRUE,TRUE,TRUE,TRUE
+G628-1-1,G628-32-52,G628-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],52,[Patient Derived Neural Stem Cell],32,1,UCL,TRUE,TRUE,FALSE,TRUE
+G978-5,G978-292,G978-[Peripheral Blood Mononuclear Cell],292,[Peripheral Blood Mononuclear Cell],G978,5,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G728-3,G728-697,G728-[Primary Tumour Tissue],697,[Primary Tumour Tissue],G728,3,UCL,TRUE,FALSE,TRUE,TRUE
+G105-9-1-1,G105-183-14-351,G105-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],351,[Isogenic Gene Cell Line],14,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G511-7-1-2,G511-334-557-608,G511-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],608,[Engineered GBM Cell Line],557,2,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G200-5,G200-626,G200-[Primary Tumour Tissue],626,[Primary Tumour Tissue],G200,5,Spain,TRUE,FALSE,TRUE,TRUE
+G765-6-1,G765-766-603,G765-[Primary Tumour Tissue]-[GBM Cell Line],603,[GBM Cell Line],766,1,UCL,TRUE,TRUE,TRUE,TRUE
+G666-10,G666-660,G666-[Peripheral Blood Mononuclear Cell],660,[Peripheral Blood Mononuclear Cell],G666,10,UCL,FALSE,TRUE,TRUE,TRUE
+G978-5-1,G978-292-554,G978-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],554,[Patient Derived Neural Stem Cell],292,1,UCL,TRUE,TRUE,TRUE,TRUE
+G530-1-1,G530-406-400,G530-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],400,[Human Neural Stem Cell Line],406,1,Spain,TRUE,FALSE,TRUE,TRUE
+G394-5-2-4-1,G394-57-237-254-96,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],96,[Xenograph Derive Cell Line],254,1,UCL,TRUE,FALSE,TRUE,TRUE
+G468-2-1,G468-553-62,G468-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],62,[Patient Derived Neural Stem Cell],553,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G577-4-1,G577-268-585,G577-[Primary Tumour Tissue]-[GBM Cell Line],585,[GBM Cell Line],268,1,Spain,TRUE,TRUE,TRUE,TRUE
+G892-8-1,G892-293-710,G892-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],710,[Patient Derived Neural Stem Cell],293,1,UCL,TRUE,TRUE,TRUE,TRUE
+G577-5-1-1,G577-315-985-426,G577-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],426,[Isogenic Gene Cell Line],985,1,Spain,TRUE,FALSE,FALSE,FALSE
+G550-1-1,G550-152-374,G550-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],374,[Patient Derived Neural Stem Cell],152,1,UCL,FALSE,TRUE,TRUE,TRUE
+G200-6,G200-251,G200-[Peripheral Blood Mononuclear Cell],251,[Peripheral Blood Mononuclear Cell],G200,6,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G530-3-1-2,G530-325-355-296,G530-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],296,[Isogenic Gene Cell Line],355,2,UCL,FALSE,TRUE,FALSE,FALSE
+G668-3-2,G668-897-360,G668-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],360,[Human Neural Stem Cell Line],897,2,Spain,FALSE,TRUE,TRUE,TRUE
+G415-9-2-2,G415-541-188-731,G415-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],731,[Isogenic Gene Cell Line],188,2,UCL,FALSE,TRUE,TRUE,TRUE
+G988-3,G988-327,G988-[Primary Tumour Tissue],327,[Primary Tumour Tissue],G988,3,UCL,FALSE,TRUE,FALSE,FALSE
+G121-3-1,G121-602-271,G121-[Primary Tumour Tissue]-[GBM Cell Line],271,[GBM Cell Line],602,1,UCL,TRUE,TRUE,FALSE,TRUE
+G364-5,G364-300,G364-[Primary Tumour Tissue],300,[Primary Tumour Tissue],G364,5,UCL,TRUE,TRUE,TRUE,TRUE
+G988-4,G988-368,G988-[Peripheral Blood Mononuclear Cell],368,[Peripheral Blood Mononuclear Cell],G988,4,UCL,TRUE,TRUE,TRUE,TRUE
+G415-3-3-1,G415-834-475-951,G415-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],951,[Isogenic Gene Cell Line],475,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G988-7-1,G988-200-827,G988-[Primary Tumour Tissue]-[GBM Cell Line],827,[GBM Cell Line],200,1,Spain,FALSE,FALSE,FALSE,TRUE
+G464-4,G464-591,G464-[Human Feotal Primary Tissue],591,[Human Feotal Primary Tissue],G464,4,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G415-9-1-2,G415-541-50-652,G415-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],652,[Isogenic Gene Cell Line],50,2,Spain,TRUE,TRUE,FALSE,TRUE
+G219-5-1-2,G219-654-299-187,G219-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],187,[Engineered GBM Cell Line],299,2,Edinburgh,FALSE,FALSE,TRUE,TRUE
+G666-15-3-2,G666-317-578-290,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],290,[Isogenic Gene Cell Line],578,2,UCL,TRUE,TRUE,TRUE,TRUE
+G873-2,G873-46,G873-[Peripheral Blood Mononuclear Cell],46,[Peripheral Blood Mononuclear Cell],G873,2,UCL,TRUE,FALSE,TRUE,FALSE
+G873-3-1,G873-353-852,G873-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],852,[Patient Derived Neural Stem Cell],353,1,Spain,TRUE,TRUE,TRUE,FALSE
+G628-3-1,G628-265-571,G628-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],571,[Patient Derived Neural Stem Cell],265,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G711-3-2,G711-633-918,G711-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],918,[Patient Derived Neural Stem Cell],633,2,Spain,TRUE,TRUE,FALSE,TRUE
+G988-5,G988-867,G988-[Human Feotal Primary Tissue],867,[Human Feotal Primary Tissue],G988,5,Edinburgh,FALSE,TRUE,FALSE,TRUE
+G394-4,G394-509,G394-[Peripheral Blood Mononuclear Cell],509,[Peripheral Blood Mononuclear Cell],G394,4,Spain,TRUE,TRUE,TRUE,FALSE
+G394-5-1-1-1,G394-57-892-997-647,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],647,[Xenograph Derive Cell Line],997,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G86-5,G86-790,G86-[Peripheral Blood Mononuclear Cell],790,[Peripheral Blood Mononuclear Cell],G86,5,Spain,FALSE,TRUE,TRUE,TRUE
+G978-2-1-1,G978-712-499-24,G978-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],24,[Engineered GBM Cell Line],499,1,Spain,TRUE,TRUE,TRUE,TRUE
+G415-9,G415-541,G415-[Human Feotal Primary Tissue],541,[Human Feotal Primary Tissue],G415,9,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G394-2-2,G394-534-501,G394-[Primary Tumour Tissue]-[GBM Cell Line],501,[GBM Cell Line],534,2,UCL,TRUE,TRUE,FALSE,TRUE
+G464-5,G464-911,G464-[Primary Tumour Tissue],911,[Primary Tumour Tissue],G464,5,Spain,FALSE,TRUE,TRUE,TRUE
+G123-4,G123-788,G123-[Peripheral Blood Mononuclear Cell],788,[Peripheral Blood Mononuclear Cell],G123,4,Spain,TRUE,FALSE,TRUE,TRUE
+G873-6-1-1-3,G873-749-996-644-962,G873-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],962,[Xenograph Derive Cell Line],644,3,Spain,TRUE,TRUE,TRUE,TRUE
+G835-5,G835-253,G835-[Human Feotal Primary Tissue],253,[Human Feotal Primary Tissue],G835,5,Spain,FALSE,TRUE,TRUE,TRUE
+G463-5-1,G463-473-966,G463-[Primary Tumour Tissue]-[GBM Cell Line],966,[GBM Cell Line],473,1,Spain,TRUE,FALSE,TRUE,FALSE
+G138-3-2,G138-858-735,G138-[Primary Tumour Tissue]-[GBM Cell Line],735,[GBM Cell Line],858,2,UCL,TRUE,FALSE,TRUE,FALSE
+G550-1,G550-152,G550-[Peripheral Blood Mononuclear Cell],152,[Peripheral Blood Mononuclear Cell],G550,1,Edinburgh,TRUE,TRUE,FALSE,FALSE
+G588-4-1-2,G588-924-535-961,G588-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],961,[Engineered GBM Cell Line],535,2,Spain,FALSE,TRUE,TRUE,TRUE
+G988-6,G988-914,G988-[Human Feotal Primary Tissue],914,[Human Feotal Primary Tissue],G988,6,Spain,TRUE,TRUE,TRUE,FALSE
+G123-1-2,G123-197-26,G123-[Primary Tumour Tissue]-[GBM Cell Line],26,[GBM Cell Line],197,2,Spain,TRUE,TRUE,TRUE,FALSE
+G138-3-3,G138-858-664,G138-[Primary Tumour Tissue]-[GBM Cell Line],664,[GBM Cell Line],858,3,UCL,TRUE,TRUE,FALSE,TRUE
+G577-5,G577-315,G577-[Human Feotal Primary Tissue],315,[Human Feotal Primary Tissue],G577,5,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G988-8-3-2,G988-694-695-103,G988-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],103,[Isogenic Gene Cell Line],695,2,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G642-6,G642-727,G642-[Human Feotal Primary Tissue],727,[Human Feotal Primary Tissue],G642,6,Spain,TRUE,FALSE,TRUE,TRUE
+G283-1-1,G283-817-469,G283-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],469,[Patient Derived Neural Stem Cell],817,1,Spain,FALSE,FALSE,TRUE,TRUE
+G873-3,G873-353,G873-[Peripheral Blood Mononuclear Cell],353,[Peripheral Blood Mononuclear Cell],G873,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G738-5,G738-724,G738-[Peripheral Blood Mononuclear Cell],724,[Peripheral Blood Mononuclear Cell],G738,5,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G666-11,G666-674,G666-[Human Feotal Primary Tissue],674,[Human Feotal Primary Tissue],G666,11,UCL,FALSE,TRUE,TRUE,TRUE
+G468-2-2,G468-553-387,G468-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],387,[Patient Derived Neural Stem Cell],553,2,Spain,TRUE,TRUE,TRUE,TRUE
+G892-5,G892-935,G892-[Peripheral Blood Mononuclear Cell],935,[Peripheral Blood Mononuclear Cell],G892,5,UCL,TRUE,TRUE,TRUE,TRUE
+G530-2,G530-974,G530-[Primary Tumour Tissue],974,[Primary Tumour Tissue],G530,2,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G275-6,G275-595,G275-[Peripheral Blood Mononuclear Cell],595,[Peripheral Blood Mononuclear Cell],G275,6,Spain,TRUE,FALSE,TRUE,FALSE
+G666-12,G666-164,G666-[Peripheral Blood Mononuclear Cell],164,[Peripheral Blood Mononuclear Cell],G666,12,UCL,TRUE,TRUE,TRUE,TRUE
+G138-5-1,G138-399-837,G138-[Primary Tumour Tissue]-[GBM Cell Line],837,[GBM Cell Line],399,1,UCL,TRUE,TRUE,TRUE,TRUE
+G689-1-1-1-1,G689-872-243-159-452,G689-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],452,[Xenograph Derive Cell Line],159,1,Spain,TRUE,TRUE,TRUE,FALSE
+G511-7-1-2-1,G511-334-557-608-378,G511-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],378,[Xenograph Derive Cell Line],608,1,UCL,TRUE,FALSE,TRUE,TRUE
+G873-6-1,G873-749-996,G873-[Primary Tumour Tissue]-[GBM Cell Line],996,[GBM Cell Line],749,1,UCL,TRUE,TRUE,TRUE,FALSE
+G138-3-3-2-1,G138-858-664-220-653,G138-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],653,[Xenograph Derive Cell Line],220,1,Spain,TRUE,TRUE,TRUE,TRUE
+G200-5-3,G200-626-956,G200-[Primary Tumour Tissue]-[GBM Cell Line],956,[GBM Cell Line],626,3,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G275-3-1-1,G275-20-425-380,G275-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],380,[Engineered GBM Cell Line],425,1,UCL,FALSE,TRUE,FALSE,TRUE
+G105-7,G105-477,G105-[Peripheral Blood Mononuclear Cell],477,[Peripheral Blood Mononuclear Cell],G105,7,UCL,TRUE,TRUE,TRUE,TRUE
+G577-4-2-1,G577-268-583-4,G577-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],4,[Engineered GBM Cell Line],583,1,Spain,TRUE,TRUE,TRUE,TRUE
+G123-1-2-1,G123-197-26-533,G123-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],533,[Engineered GBM Cell Line],26,1,Spain,TRUE,TRUE,TRUE,FALSE
+G463-14-1-2,G463-786-214-421,G463-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],421,[Engineered GBM Cell Line],214,2,Spain,TRUE,TRUE,TRUE,TRUE
+G550-2,G550-947,G550-[Human Feotal Primary Tissue],947,[Human Feotal Primary Tissue],G550,2,Spain,TRUE,TRUE,TRUE,FALSE
+G530-2-1,G530-974-393,G530-[Primary Tumour Tissue]-[GBM Cell Line],393,[GBM Cell Line],974,1,Spain,FALSE,TRUE,TRUE,TRUE
+G123-3-1-1-1,G123-298-166-701-908,G123-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],908,[Xenograph Derive Cell Line],701,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G988-7,G988-200,G988-[Primary Tumour Tissue],200,[Primary Tumour Tissue],G988,7,UCL,TRUE,TRUE,TRUE,TRUE
+G988-3-3,G988-327-207,G988-[Primary Tumour Tissue]-[GBM Cell Line],207,[GBM Cell Line],327,3,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G992-5-1-2,G992-359-449-77,G992-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],77,[Isogenic Gene Cell Line],449,2,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G275-2-3-1,G275-1-723-10,G275-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],10,[Isogenic Gene Cell Line],723,1,Spain,FALSE,TRUE,TRUE,TRUE
+G283-5-2-1,G283-12-419-623,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],623,[Engineered GBM Cell Line],419,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G666-13,G666-885,G666-[Peripheral Blood Mononuclear Cell],885,[Peripheral Blood Mononuclear Cell],G666,13,Edinburgh,FALSE,TRUE,FALSE,FALSE
+G463-2-1-2,G463-235-993-403,G463-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],403,[Engineered GBM Cell Line],993,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G364-1-1-1,G364-833-866-939,G364-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],939,[Isogenic Gene Cell Line],866,1,Spain,TRUE,TRUE,FALSE,TRUE
+G562-5,G562-599,G562-[Peripheral Blood Mononuclear Cell],599,[Peripheral Blood Mononuclear Cell],G562,5,Spain,TRUE,TRUE,FALSE,TRUE
+G463-2-2,G463-235-476,G463-[Primary Tumour Tissue]-[GBM Cell Line],476,[GBM Cell Line],235,2,Spain,TRUE,TRUE,FALSE,TRUE
+G283-5-1-3-1,G283-12-376-372-396,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],396,[Xenograph Derive Cell Line],372,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G530-2-1-2-1,G530-974-393-260-738,G530-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],738,[Xenograph Derive Cell Line],260,1,UCL,TRUE,TRUE,TRUE,TRUE
+G628-2-2,G628-506-87,G628-[Primary Tumour Tissue]-[GBM Cell Line],87,[GBM Cell Line],506,2,Edinburgh,TRUE,FALSE,FALSE,TRUE
+G873-4-2,G873-861-264,G873-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],264,[Human Neural Stem Cell Line],861,2,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G364-6,G364-180,G364-[Peripheral Blood Mononuclear Cell],180,[Peripheral Blood Mononuclear Cell],G364,6,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G463-8,G463-963,G463-[Human Feotal Primary Tissue],963,[Human Feotal Primary Tissue],G463,8,Edinburgh,FALSE,FALSE,TRUE,TRUE
+G577-6,G577-9,G577-[Peripheral Blood Mononuclear Cell],9,[Peripheral Blood Mononuclear Cell],G577,6,Spain,TRUE,TRUE,TRUE,TRUE
+G666-12-1,G666-164-825,G666-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],825,[Patient Derived Neural Stem Cell],164,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G509-3,G509-217,G509-[Human Feotal Primary Tissue],217,[Human Feotal Primary Tissue],G509,3,Spain,FALSE,TRUE,TRUE,FALSE
+G121-4,G121-814,G121-[Human Feotal Primary Tissue],814,[Human Feotal Primary Tissue],G121,4,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G138-3-1-2,G138-858-139-337,G138-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],337,[Engineered GBM Cell Line],139,2,UCL,FALSE,TRUE,FALSE,TRUE
+G364-7,G364-118,G364-[Peripheral Blood Mononuclear Cell],118,[Peripheral Blood Mononuclear Cell],G364,7,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G394-5,G394-57,G394-[Primary Tumour Tissue],57,[Primary Tumour Tissue],G394,5,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G293-4,G293-29,G293-[Primary Tumour Tissue],29,[Primary Tumour Tissue],G293,4,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G219-1-2-2-1,G219-521-792-162-815,G219-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],815,[Xenograph Derive Cell Line],162,1,UCL,FALSE,FALSE,TRUE,TRUE
+G138-3-1-1-1,G138-858-139-893-796,G138-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],796,[Xenograph Derive Cell Line],893,1,Spain,TRUE,FALSE,TRUE,TRUE
+G835-5-1,G835-253-751,G835-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],751,[Human Neural Stem Cell Line],253,1,UCL,TRUE,TRUE,TRUE,FALSE
+G666-14,G666-732,G666-[Peripheral Blood Mononuclear Cell],732,[Peripheral Blood Mononuclear Cell],G666,14,UCL,TRUE,FALSE,FALSE,TRUE
+G463-9,G463-427,G463-[Primary Tumour Tissue],427,[Primary Tumour Tissue],G463,9,Spain,TRUE,FALSE,TRUE,TRUE
+G577-5-2-1,G577-315-511-279,G577-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],279,[Isogenic Gene Cell Line],511,1,Spain,TRUE,TRUE,TRUE,FALSE
+G577-5-2,G577-315-511,G577-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],511,[Human Neural Stem Cell Line],315,2,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G577-4-4-2,G577-268-320-832,G577-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],832,[Engineered GBM Cell Line],320,2,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G668-3-1-1,G668-897-194-361,G668-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],361,[Isogenic Gene Cell Line],194,1,UCL,TRUE,TRUE,TRUE,FALSE
+G219-4,G219-983,G219-[Primary Tumour Tissue],983,[Primary Tumour Tissue],G219,4,UCL,FALSE,TRUE,TRUE,TRUE
+G275-3-3,G275-20-550,G275-[Primary Tumour Tissue]-[GBM Cell Line],550,[GBM Cell Line],20,3,Spain,TRUE,FALSE,TRUE,TRUE
+G121-5,G121-785,G121-[Peripheral Blood Mononuclear Cell],785,[Peripheral Blood Mononuclear Cell],G121,5,UCL,FALSE,TRUE,FALSE,TRUE
+G123-5,G123-394,G123-[Peripheral Blood Mononuclear Cell],394,[Peripheral Blood Mononuclear Cell],G123,5,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G992-4-1,G992-538-894,G992-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],894,[Patient Derived Neural Stem Cell],538,1,UCL,TRUE,TRUE,FALSE,TRUE
+G666-15-3,G666-317-578,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],578,[Human Neural Stem Cell Line],317,3,UCL,FALSE,TRUE,TRUE,FALSE
+G992-2-1,G992-551-273,G992-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],273,[Patient Derived Neural Stem Cell],551,1,Spain,TRUE,TRUE,TRUE,FALSE
+G738-2-2-1,G738-982-831-946,G738-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],946,[Engineered GBM Cell Line],831,1,Spain,TRUE,TRUE,FALSE,TRUE
+G988-1-2,G988-51-128,G988-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],128,[Patient Derived Neural Stem Cell],51,2,UCL,TRUE,FALSE,TRUE,TRUE
+G666-15,G666-317,G666-[Human Feotal Primary Tissue],317,[Human Feotal Primary Tissue],G666,15,Spain,TRUE,TRUE,TRUE,TRUE
+G872-6,G872-994,G872-[Primary Tumour Tissue],994,[Primary Tumour Tissue],G872,6,Spain,TRUE,TRUE,TRUE,FALSE
+G530-3,G530-325,G530-[Human Feotal Primary Tissue],325,[Human Feotal Primary Tissue],G530,3,UCL,TRUE,TRUE,TRUE,TRUE
+G835-1-1,G835-680-39,G835-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],39,[Human Neural Stem Cell Line],680,1,Spain,TRUE,FALSE,TRUE,TRUE
+G666-16,G666-863,G666-[Human Feotal Primary Tissue],863,[Human Feotal Primary Tissue],G666,16,Spain,TRUE,TRUE,TRUE,TRUE
+G283-3-1-1-4,G283-83-539-178-437,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],437,[Xenograph Derive Cell Line],178,4,UCL,TRUE,TRUE,TRUE,TRUE
+G138-6-2,G138-812-542,G138-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],542,[Human Neural Stem Cell Line],812,2,Edinburgh,FALSE,TRUE,FALSE,FALSE
+G468-4-3,G468-365-510,G468-[Primary Tumour Tissue]-[GBM Cell Line],510,[GBM Cell Line],365,3,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G562-7-1,G562-470-209,G562-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],209,[Patient Derived Neural Stem Cell],470,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G970-4-3,G970-950-255,G970-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],255,[Human Neural Stem Cell Line],950,3,Spain,TRUE,TRUE,TRUE,TRUE
+G892-6-1,G892-240-186,G892-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],186,[Patient Derived Neural Stem Cell],240,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G835-5-2,G835-253-462,G835-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],462,[Human Neural Stem Cell Line],253,2,UCL,TRUE,TRUE,TRUE,TRUE
+G549-7-2,G549-597-410,G549-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],410,[Patient Derived Neural Stem Cell],597,2,UCL,TRUE,TRUE,TRUE,TRUE
+G689-3,G689-224,G689-[Peripheral Blood Mononuclear Cell],224,[Peripheral Blood Mononuclear Cell],G689,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G200-6-1,G200-251-60,G200-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],60,[Patient Derived Neural Stem Cell],251,1,UCL,TRUE,TRUE,TRUE,TRUE
+G530-1-2-1,G530-406-259-463,G530-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],463,[Isogenic Gene Cell Line],259,1,Spain,TRUE,TRUE,TRUE,TRUE
+G511-5-1-1,G511-954-930-773,G511-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],773,[Isogenic Gene Cell Line],930,1,UCL,TRUE,TRUE,TRUE,TRUE
+G930-3,G930-847,G930-[Peripheral Blood Mononuclear Cell],847,[Peripheral Blood Mononuclear Cell],G930,3,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G138-8-1-1,G138-120-266-977,G138-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],977,[Engineered GBM Cell Line],266,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G394-5-2-3,G394-57-237-98,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],98,[Engineered GBM Cell Line],237,3,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G283-6,G283-879,G283-[Primary Tumour Tissue],879,[Primary Tumour Tissue],G283,6,Spain,TRUE,TRUE,FALSE,FALSE
+G394-5-1-2,G394-57-892-2,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],2,[Engineered GBM Cell Line],892,2,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G628-2-1-1,G628-506-862-842,G628-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],842,[Engineered GBM Cell Line],862,1,Spain,TRUE,TRUE,TRUE,TRUE
+G835-4-2-1-1,G835-301-307-185-657,G835-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],657,[Xenograph Derive Cell Line],185,1,Spain,TRUE,TRUE,TRUE,TRUE
+G138-3-3-2,G138-858-664-220,G138-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],220,[Engineered GBM Cell Line],664,2,Edinburgh,FALSE,TRUE,TRUE,FALSE
+G138-7-1,G138-381-840,G138-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],840,[Human Neural Stem Cell Line],381,1,Spain,TRUE,FALSE,TRUE,TRUE
+G562-6,G562-548,G562-[Primary Tumour Tissue],548,[Primary Tumour Tissue],G562,6,Spain,TRUE,TRUE,FALSE,TRUE
+G964-3,G964-412,G964-[Peripheral Blood Mononuclear Cell],412,[Peripheral Blood Mononuclear Cell],G964,3,Spain,TRUE,TRUE,TRUE,FALSE
+G530-2-1-2,G530-974-393-260,G530-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],260,[Engineered GBM Cell Line],393,2,Spain,FALSE,FALSE,TRUE,TRUE
+G668-5-2,G668-843-672,G668-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],672,[Human Neural Stem Cell Line],843,2,UCL,TRUE,TRUE,TRUE,TRUE
+G711-1-1-1,G711-991-770-59,G711-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],59,[Isogenic Gene Cell Line],770,1,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G123-3-2-1-1,G123-298-471-824-754,G123-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],754,[Xenograph Derive Cell Line],824,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G562-9-2,G562-998-565,G562-[Primary Tumour Tissue]-[GBM Cell Line],565,[GBM Cell Line],998,2,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G964-2-1,G964-975-261,G964-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],261,[Human Neural Stem Cell Line],975,1,UCL,TRUE,TRUE,TRUE,TRUE
+G394-2-1-1-2,G394-534-342-306-153,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],153,[Xenograph Derive Cell Line],306,2,Spain,TRUE,FALSE,TRUE,FALSE
+G509-4,G509-148,G509-[Primary Tumour Tissue],148,[Primary Tumour Tissue],G509,4,Spain,FALSE,FALSE,TRUE,TRUE
+G275-2-2,G275-1-222,G275-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],222,[Human Neural Stem Cell Line],1,2,Spain,FALSE,FALSE,TRUE,TRUE
+G530-4,G530-835,G530-[Human Feotal Primary Tissue],835,[Human Feotal Primary Tissue],G530,4,UCL,TRUE,TRUE,TRUE,TRUE
+G668-4-3,G668-685-981,G668-[Primary Tumour Tissue]-[GBM Cell Line],981,[GBM Cell Line],685,3,Spain,TRUE,TRUE,FALSE,TRUE
+G293-5,G293-11,G293-[Primary Tumour Tissue],11,[Primary Tumour Tissue],G293,5,UCL,TRUE,FALSE,FALSE,TRUE
+G138-6,G138-812,G138-[Human Feotal Primary Tissue],812,[Human Feotal Primary Tissue],G138,6,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G577-4-2-1-1,G577-268-583-4-141,G577-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],141,[Xenograph Derive Cell Line],4,1,UCL,TRUE,TRUE,FALSE,TRUE
+G468-2,G468-553,G468-[Peripheral Blood Mononuclear Cell],553,[Peripheral Blood Mononuclear Cell],G468,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G530-5-1-3,G530-97-662-782,G530-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],782,[Engineered GBM Cell Line],662,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G123-1-1-1,G123-197-526-537,G123-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],537,[Engineered GBM Cell Line],526,1,Spain,TRUE,TRUE,TRUE,TRUE
+G138-8-1,G138-120-266,G138-[Primary Tumour Tissue]-[GBM Cell Line],266,[GBM Cell Line],120,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G988-8-1-1,G988-694-454-920,G988-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],920,[Isogenic Gene Cell Line],454,1,Spain,TRUE,TRUE,TRUE,TRUE
+G394-5-1-3,G394-57-892-356,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],356,[Engineered GBM Cell Line],892,3,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G468-3,G468-671,G468-[Human Feotal Primary Tissue],671,[Human Feotal Primary Tissue],G468,3,Edinburgh,FALSE,FALSE,TRUE,TRUE
+G668-6,G668-864,G668-[Peripheral Blood Mononuclear Cell],864,[Peripheral Blood Mononuclear Cell],G668,6,UCL,TRUE,TRUE,FALSE,TRUE
+G577-4-1-1,G577-268-585-901,G577-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],901,[Engineered GBM Cell Line],585,1,UCL,FALSE,FALSE,FALSE,TRUE
+G892-6,G892-240,G892-[Peripheral Blood Mononuclear Cell],240,[Peripheral Blood Mononuclear Cell],G892,6,Spain,FALSE,TRUE,TRUE,TRUE
+G511-2-2-1,G511-67-286-401,G511-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],401,[Isogenic Gene Cell Line],286,1,Edinburgh,FALSE,TRUE,TRUE,FALSE
+G468-4,G468-365,G468-[Primary Tumour Tissue],365,[Primary Tumour Tissue],G468,4,UCL,TRUE,TRUE,FALSE,TRUE
+G415-10-1-1,G415-347-558-366,G415-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],366,[Isogenic Gene Cell Line],558,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G511-2-1,G511-67-33,G511-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],33,[Human Neural Stem Cell Line],67,1,Spain,TRUE,TRUE,FALSE,TRUE
+G283-7,G283-385,G283-[Peripheral Blood Mononuclear Cell],385,[Peripheral Blood Mononuclear Cell],G283,7,Spain,TRUE,TRUE,TRUE,TRUE
+G394-6,G394-679,G394-[Human Feotal Primary Tissue],679,[Human Feotal Primary Tissue],G394,6,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G530-2-1-3,G530-974-393-587,G530-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],587,[Engineered GBM Cell Line],393,3,UCL,TRUE,TRUE,TRUE,TRUE
+G138-7-1-1,G138-381-840-405,G138-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],405,[Isogenic Gene Cell Line],840,1,UCL,TRUE,TRUE,TRUE,FALSE
+G738-2-1-1-1,G738-982-590-488-882,G738-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],882,[Xenograph Derive Cell Line],488,1,Spain,FALSE,TRUE,TRUE,FALSE
+G123-3-1-1-2,G123-298-166-701-928,G123-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],928,[Xenograph Derive Cell Line],701,2,Spain,TRUE,TRUE,FALSE,TRUE
+G123-3-1,G123-298-166,G123-[Primary Tumour Tissue]-[GBM Cell Line],166,[GBM Cell Line],298,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G219-5-1,G219-654-299,G219-[Primary Tumour Tissue]-[GBM Cell Line],299,[GBM Cell Line],654,1,Spain,TRUE,TRUE,FALSE,TRUE
+G562-7,G562-470,G562-[Peripheral Blood Mononuclear Cell],470,[Peripheral Blood Mononuclear Cell],G562,7,UCL,TRUE,TRUE,FALSE,TRUE
+G200-7,G200-318,G200-[Primary Tumour Tissue],318,[Primary Tumour Tissue],G200,7,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G364-3-2,G364-23-804,G364-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],804,[Human Neural Stem Cell Line],23,2,Spain,TRUE,TRUE,TRUE,TRUE
+G738-2-1,G738-982-590,G738-[Primary Tumour Tissue]-[GBM Cell Line],590,[GBM Cell Line],982,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G364-8,G364-310,G364-[Human Feotal Primary Tissue],310,[Human Feotal Primary Tissue],G364,8,UCL,TRUE,TRUE,TRUE,TRUE
+G728-6-3,G728-540-881,G728-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],881,[Patient Derived Neural Stem Cell],540,3,UCL,TRUE,TRUE,TRUE,FALSE
+G988-9-1,G988-17-404,G988-[Primary Tumour Tissue]-[GBM Cell Line],404,[GBM Cell Line],17,1,Spain,TRUE,TRUE,TRUE,TRUE
+G283-3-1,G283-83-539,G283-[Primary Tumour Tissue]-[GBM Cell Line],539,[GBM Cell Line],83,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G219-5-1-1-2,G219-654-299-28-228,G219-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],228,[Xenograph Derive Cell Line],28,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G577-4-2,G577-268-583,G577-[Primary Tumour Tissue]-[GBM Cell Line],583,[GBM Cell Line],268,2,UCL,TRUE,TRUE,TRUE,TRUE
+G511-7,G511-334,G511-[Primary Tumour Tissue],334,[Primary Tumour Tissue],G511,7,Edinburgh,FALSE,TRUE,TRUE,FALSE
+G892-7,G892-216,G892-[Human Feotal Primary Tissue],216,[Human Feotal Primary Tissue],G892,7,UCL,TRUE,FALSE,TRUE,TRUE
+G76-5,G76-818,G76-[Primary Tumour Tissue],818,[Primary Tumour Tissue],G76,5,Spain,TRUE,TRUE,TRUE,TRUE
+G138-7-1-2,G138-381-840-505,G138-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],505,[Isogenic Gene Cell Line],840,2,UCL,TRUE,TRUE,TRUE,TRUE
+G668-4-2-1-2,G668-685-343-896-130,G668-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],130,[Xenograph Derive Cell Line],896,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G283-2-1,G283-877-610,G283-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],610,[Human Neural Stem Cell Line],877,1,Spain,FALSE,FALSE,TRUE,TRUE
+G275-3-3-2,G275-20-550-611,G275-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],611,[Engineered GBM Cell Line],550,2,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G873-6-1-1-4,G873-749-996-644-172,G873-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],172,[Xenograph Derive Cell Line],644,4,UCL,TRUE,TRUE,TRUE,TRUE
+G738-3-2-2,G738-49-552-231,G738-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],231,[Engineered GBM Cell Line],552,2,UCL,TRUE,TRUE,TRUE,TRUE
+G930-2-2,G930-762-891,G930-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],891,[Patient Derived Neural Stem Cell],762,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G72-2-1,G72-705-494,G72-[Primary Tumour Tissue]-[GBM Cell Line],494,[GBM Cell Line],705,1,Spain,TRUE,TRUE,TRUE,TRUE
+G464-6,G464-212,G464-[Human Feotal Primary Tissue],212,[Human Feotal Primary Tissue],G464,6,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G872-1-1-1,G872-84-640-402,G872-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],402,[Isogenic Gene Cell Line],640,1,Spain,TRUE,TRUE,FALSE,TRUE
+G530-5,G530-97,G530-[Primary Tumour Tissue],97,[Primary Tumour Tissue],G530,5,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G738-2-2-2,G738-982-831-651,G738-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],651,[Engineered GBM Cell Line],831,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G105-8,G105-16,G105-[Human Feotal Primary Tissue],16,[Human Feotal Primary Tissue],G105,8,Spain,TRUE,TRUE,TRUE,FALSE
+G666-17,G666-999,G666-[Primary Tumour Tissue],999,[Primary Tumour Tissue],G666,17,Spain,TRUE,TRUE,FALSE,FALSE
+G463-10,G463-246,G463-[Peripheral Blood Mononuclear Cell],246,[Peripheral Blood Mononuclear Cell],G463,10,Spain,TRUE,TRUE,TRUE,TRUE
+G394-7-1,G394-763-111,G394-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],111,[Human Neural Stem Cell Line],763,1,Spain,TRUE,TRUE,TRUE,TRUE
+G105-9,G105-183,G105-[Human Feotal Primary Tissue],183,[Human Feotal Primary Tissue],G105,9,Edinburgh,FALSE,FALSE,TRUE,TRUE
+G219-5,G219-654,G219-[Primary Tumour Tissue],654,[Primary Tumour Tissue],G219,5,Edinburgh,TRUE,TRUE,FALSE,FALSE
+G364-1-1-2,G364-833-866-143,G364-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],143,[Isogenic Gene Cell Line],866,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G275-3-3-1-3,G275-20-550-428-497,G275-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],497,[Xenograph Derive Cell Line],428,3,Spain,TRUE,FALSE,FALSE,FALSE
+G530-1-2-2,G530-406-259-594,G530-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],594,[Isogenic Gene Cell Line],259,2,UCL,FALSE,FALSE,TRUE,TRUE
+G628-2-1-2-1,G628-506-862-416-263,G628-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],263,[Xenograph Derive Cell Line],416,1,Spain,TRUE,TRUE,FALSE,TRUE
+G86-1-1,G86-272-460,G86-[Primary Tumour Tissue]-[GBM Cell Line],460,[GBM Cell Line],272,1,UCL,TRUE,TRUE,FALSE,TRUE
+G86-4-1,G86-900-289,G86-[Primary Tumour Tissue]-[GBM Cell Line],289,[GBM Cell Line],900,1,UCL,TRUE,FALSE,TRUE,FALSE
+G219-5-1-3,G219-654-299-323,G219-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],323,[Engineered GBM Cell Line],299,3,Edinburgh,TRUE,FALSE,TRUE,FALSE
+G464-3-2-1,G464-208-466-27,G464-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],27,[Isogenic Gene Cell Line],466,1,Spain,TRUE,FALSE,TRUE,TRUE
+G275-2-3,G275-1-723,G275-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],723,[Human Neural Stem Cell Line],1,3,UCL,TRUE,TRUE,TRUE,TRUE
+G275-5-1-1-1,G275-567-632-196-191,G275-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],191,[Xenograph Derive Cell Line],196,1,UCL,TRUE,TRUE,TRUE,TRUE
+G988-8-3,G988-694-695,G988-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],695,[Human Neural Stem Cell Line],694,3,UCL,TRUE,FALSE,FALSE,TRUE
+G930-2-3,G930-762-865,G930-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],865,[Patient Derived Neural Stem Cell],762,3,UCL,TRUE,TRUE,TRUE,FALSE
+G642-7,G642-311,G642-[Human Feotal Primary Tissue],311,[Human Feotal Primary Tissue],G642,7,UCL,FALSE,TRUE,FALSE,TRUE
+G138-8-1-2-2,G138-120-266-522-371,G138-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],371,[Xenograph Derive Cell Line],522,2,Spain,TRUE,TRUE,TRUE,TRUE
+G642-2-2,G642-467-154,G642-[Primary Tumour Tissue]-[GBM Cell Line],154,[GBM Cell Line],467,2,Spain,TRUE,FALSE,TRUE,FALSE
+G988-3-4,G988-327-830,G988-[Primary Tumour Tissue]-[GBM Cell Line],830,[GBM Cell Line],327,4,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G123-3-1-2-1,G123-298-166-658-302,G123-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],302,[Xenograph Derive Cell Line],658,1,Edinburgh,FALSE,FALSE,TRUE,TRUE
+G283-3-1-4,G283-83-539-665,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],665,[Engineered GBM Cell Line],539,4,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G642-8,G642-459,G642-[Human Feotal Primary Tissue],459,[Human Feotal Primary Tissue],G642,8,Spain,TRUE,TRUE,FALSE,TRUE
+G509-3-1-1,G509-217-895-527,G509-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],527,[Isogenic Gene Cell Line],895,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G765-5-2,G765-34-199,G765-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],199,[Human Neural Stem Cell Line],34,2,UCL,TRUE,TRUE,FALSE,FALSE
+G463-2-1-3,G463-235-993-41,G463-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],41,[Engineered GBM Cell Line],993,3,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G781-1-1,G781-239-836,G781-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],836,[Patient Derived Neural Stem Cell],239,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G642-5-1,G642-549-92,G642-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],92,[Human Neural Stem Cell Line],549,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G105-9-2-2,G105-183-661-42,G105-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],42,[Isogenic Gene Cell Line],661,2,Edinburgh,TRUE,TRUE,FALSE,FALSE
+G728-4,G728-330,G728-[Human Feotal Primary Tissue],330,[Human Feotal Primary Tissue],G728,4,UCL,TRUE,TRUE,TRUE,TRUE
+G464-7,G464-285,G464-[Human Feotal Primary Tissue],285,[Human Feotal Primary Tissue],G464,7,UCL,TRUE,TRUE,TRUE,TRUE
+G86-6,G86-922,G86-[Human Feotal Primary Tissue],922,[Human Feotal Primary Tissue],G86,6,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G988-9-1-1,G988-17-404-574,G988-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],574,[Engineered GBM Cell Line],404,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G283-4-2,G283-348-737,G283-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],737,[Patient Derived Neural Stem Cell],348,2,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G464-3-2,G464-208-466,G464-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],466,[Human Neural Stem Cell Line],208,2,Spain,TRUE,FALSE,TRUE,FALSE
+G666-18,G666-767,G666-[Peripheral Blood Mononuclear Cell],767,[Peripheral Blood Mononuclear Cell],G666,18,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G668-4-2-2,G668-685-343-241,G668-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],241,[Engineered GBM Cell Line],343,2,Spain,FALSE,FALSE,TRUE,TRUE
+G511-1-1-1,G511-73-668-147,G511-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],147,[Isogenic Gene Cell Line],668,1,Spain,TRUE,TRUE,TRUE,TRUE
+G415-10-1,G415-347-558,G415-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],558,[Human Neural Stem Cell Line],347,1,Spain,FALSE,TRUE,TRUE,TRUE
+G219-1-2-2,G219-521-792-162,G219-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],162,[Engineered GBM Cell Line],792,2,UCL,TRUE,TRUE,FALSE,TRUE
+G970-3,G970-646,G970-[Primary Tumour Tissue],646,[Primary Tumour Tissue],G970,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G530-6,G530-760,G530-[Peripheral Blood Mononuclear Cell],760,[Peripheral Blood Mononuclear Cell],G530,6,Spain,TRUE,TRUE,TRUE,TRUE
+G964-4,G964-37,G964-[Peripheral Blood Mononuclear Cell],37,[Peripheral Blood Mononuclear Cell],G964,4,Edinburgh,TRUE,FALSE,TRUE,FALSE
+G415-9-2-3,G415-541-188-838,G415-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],838,[Isogenic Gene Cell Line],188,3,Edinburgh,FALSE,FALSE,TRUE,TRUE
+G872-7,G872-136,G872-[Primary Tumour Tissue],136,[Primary Tumour Tissue],G872,7,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G463-1-1,G463-970-992,G463-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],992,[Patient Derived Neural Stem Cell],970,1,UCL,FALSE,TRUE,TRUE,FALSE
+G630-2,G630-520,G630-[Human Feotal Primary Tissue],520,[Human Feotal Primary Tissue],G630,2,UCL,TRUE,TRUE,TRUE,TRUE
+G951-2,G951-379,G951-[Peripheral Blood Mononuclear Cell],379,[Peripheral Blood Mononuclear Cell],G951,2,Spain,TRUE,FALSE,TRUE,TRUE
+G394-5-2-4-2,G394-57-237-254-576,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],576,[Xenograph Derive Cell Line],254,2,Spain,TRUE,TRUE,FALSE,TRUE
+G123-1-2-1-1,G123-197-26-533-105,G123-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],105,[Xenograph Derive Cell Line],533,1,UCL,TRUE,TRUE,FALSE,FALSE
+G988-8,G988-694,G988-[Human Feotal Primary Tissue],694,[Human Feotal Primary Tissue],G988,8,Spain,TRUE,FALSE,FALSE,FALSE
+G468-5,G468-134,G468-[Primary Tumour Tissue],134,[Primary Tumour Tissue],G468,5,Spain,TRUE,TRUE,TRUE,FALSE
+G138-6-1-2,G138-812-411-408,G138-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],408,[Isogenic Gene Cell Line],411,2,UCL,TRUE,TRUE,TRUE,TRUE
+G689-1-1-1,G689-872-243-159,G689-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],159,[Engineered GBM Cell Line],243,1,UCL,TRUE,FALSE,TRUE,TRUE
+G364-9,G364-177,G364-[Human Feotal Primary Tissue],177,[Human Feotal Primary Tissue],G364,9,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G577-4-3,G577-268-204,G577-[Primary Tumour Tissue]-[GBM Cell Line],204,[GBM Cell Line],268,3,Spain,FALSE,FALSE,FALSE,TRUE
+G364-7-2,G364-118-605,G364-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],605,[Patient Derived Neural Stem Cell],118,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G511-5-1-2,G511-954-930-649,G511-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],649,[Isogenic Gene Cell Line],930,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G530-5-1-3-1,G530-97-662-782-161,G530-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],161,[Xenograph Derive Cell Line],782,1,UCL,TRUE,TRUE,TRUE,TRUE
+G549-6,G549-937,G549-[Peripheral Blood Mononuclear Cell],937,[Peripheral Blood Mononuclear Cell],G549,6,Spain,TRUE,TRUE,FALSE,FALSE
+G765-5-3,G765-34-456,G765-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],456,[Human Neural Stem Cell Line],34,3,UCL,TRUE,TRUE,TRUE,TRUE
+G530-1-1-1,G530-406-400-740,G530-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],740,[Isogenic Gene Cell Line],400,1,UCL,TRUE,FALSE,TRUE,TRUE
+G394-5-1-3-3,G394-57-892-356-921,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],921,[Xenograph Derive Cell Line],356,3,UCL,TRUE,TRUE,FALSE,TRUE
+G364-6-2,G364-180-190,G364-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],190,[Patient Derived Neural Stem Cell],180,2,Spain,TRUE,TRUE,FALSE,TRUE
+G765-5,G765-34,G765-[Human Feotal Primary Tissue],34,[Human Feotal Primary Tissue],G765,5,UCL,TRUE,TRUE,TRUE,TRUE
+G930-1-1-2,G930-305-63-556,G930-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],556,[Isogenic Gene Cell Line],63,2,UCL,TRUE,TRUE,FALSE,TRUE
+G930-4,G930-249,G930-[Peripheral Blood Mononuclear Cell],249,[Peripheral Blood Mononuclear Cell],G930,4,Spain,TRUE,TRUE,FALSE,FALSE
+G86-7,G86-242,G86-[Peripheral Blood Mononuclear Cell],242,[Peripheral Blood Mononuclear Cell],G86,7,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G873-6-1-2-2,G873-749-996-741-958,G873-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],958,[Xenograph Derive Cell Line],741,2,UCL,FALSE,TRUE,TRUE,TRUE
+G577-3-1,G577-716-512,G577-[Primary Tumour Tissue]-[GBM Cell Line],512,[GBM Cell Line],716,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G577-4-4,G577-268-320,G577-[Primary Tumour Tissue]-[GBM Cell Line],320,[GBM Cell Line],268,4,UCL,FALSE,TRUE,TRUE,TRUE
+G588-4-1,G588-924-535,G588-[Primary Tumour Tissue]-[GBM Cell Line],535,[GBM Cell Line],924,1,Spain,TRUE,TRUE,FALSE,FALSE
+G464-8,G464-61,G464-[Primary Tumour Tissue],61,[Primary Tumour Tissue],G464,8,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G988-9-2-1-1,G988-17-213-518-35,G988-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],35,[Xenograph Derive Cell Line],518,1,UCL,FALSE,FALSE,TRUE,TRUE
+G642-5-2,G642-549-615,G642-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],615,[Human Neural Stem Cell Line],549,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G577-7,G577-309,G577-[Human Feotal Primary Tissue],309,[Human Feotal Primary Tissue],G577,7,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G577-10-1,G577-74-284,G577-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],284,[Patient Derived Neural Stem Cell],74,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G511-3-1,G511-810-799,G511-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],799,[Patient Derived Neural Stem Cell],810,1,UCL,TRUE,TRUE,TRUE,TRUE
+G689-4-1,G689-211-886,G689-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],886,[Patient Derived Neural Stem Cell],211,1,Spain,FALSE,TRUE,TRUE,TRUE
+G577-5-3,G577-315-502,G577-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],502,[Human Neural Stem Cell Line],315,3,Spain,FALSE,TRUE,TRUE,TRUE
+G711-2-1,G711-655-36,G711-[Primary Tumour Tissue]-[GBM Cell Line],36,[GBM Cell Line],655,1,UCL,FALSE,TRUE,TRUE,TRUE
+G738-5-2,G738-724-122,G738-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],122,[Patient Derived Neural Stem Cell],724,2,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G463-11,G463-808,G463-[Peripheral Blood Mononuclear Cell],808,[Peripheral Blood Mononuclear Cell],G463,11,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G765-2-1,G765-625-976,G765-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],976,[Human Neural Stem Cell Line],625,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G76-6,G76-639,G76-[Peripheral Blood Mononuclear Cell],639,[Peripheral Blood Mononuclear Cell],G76,6,Spain,TRUE,TRUE,FALSE,TRUE
+G464-9,G464-736,G464-[Primary Tumour Tissue],736,[Primary Tumour Tissue],G464,9,Spain,TRUE,TRUE,FALSE,TRUE
+G511-8,G511-145,G511-[Human Feotal Primary Tissue],145,[Human Feotal Primary Tissue],G511,8,UCL,TRUE,TRUE,TRUE,TRUE
+G666-15-2-1,G666-317-6-234,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],234,[Isogenic Gene Cell Line],6,1,Edinburgh,TRUE,FALSE,FALSE,TRUE
+G642-5-2-1,G642-549-615-350,G642-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],350,[Isogenic Gene Cell Line],615,1,UCL,TRUE,TRUE,FALSE,TRUE
+G872-1-3,G872-84-987,G872-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],987,[Human Neural Stem Cell Line],84,3,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G577-8,G577-117,G577-[Primary Tumour Tissue],117,[Primary Tumour Tissue],G577,8,UCL,TRUE,TRUE,TRUE,TRUE
+G283-8,G283-440,G283-[Human Feotal Primary Tissue],440,[Human Feotal Primary Tissue],G283,8,Spain,TRUE,TRUE,TRUE,FALSE
+G105-9-3,G105-183-698,G105-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],698,[Human Neural Stem Cell Line],183,3,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G992-5,G992-359,G992-[Human Feotal Primary Tissue],359,[Human Feotal Primary Tissue],G992,5,Spain,TRUE,TRUE,TRUE,TRUE
+G668-3-3,G668-897-715,G668-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],715,[Human Neural Stem Cell Line],897,3,UCL,TRUE,TRUE,TRUE,TRUE
+G123-3-2-2,G123-298-471-772,G123-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],772,[Engineered GBM Cell Line],471,2,UCL,TRUE,TRUE,TRUE,FALSE
+G123-3-1-2,G123-298-166-658,G123-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],658,[Engineered GBM Cell Line],166,2,Spain,TRUE,TRUE,TRUE,TRUE
+G630-3,G630-912,G630-[Primary Tumour Tissue],912,[Primary Tumour Tissue],G630,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G72-3-1,G72-85-545,G72-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],545,[Patient Derived Neural Stem Cell],85,1,UCL,TRUE,TRUE,TRUE,TRUE
+G463-12,G463-121,G463-[Peripheral Blood Mononuclear Cell],121,[Peripheral Blood Mononuclear Cell],G463,12,UCL,TRUE,TRUE,TRUE,TRUE
+G530-7,G530-149,G530-[Human Feotal Primary Tissue],149,[Human Feotal Primary Tissue],G530,7,Spain,TRUE,TRUE,TRUE,TRUE
+G988-3-1-1,G988-327-89-592,G988-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],592,[Engineered GBM Cell Line],89,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G642-1-3-1,G642-175-210-435,G642-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],435,[Engineered GBM Cell Line],210,1,UCL,FALSE,TRUE,TRUE,FALSE
+G219-6,G219-821,G219-[Primary Tumour Tissue],821,[Primary Tumour Tissue],G219,6,Edinburgh,FALSE,FALSE,TRUE,TRUE
+G668-5-2-1,G668-843-672-326,G668-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],326,[Isogenic Gene Cell Line],672,1,Spain,TRUE,TRUE,TRUE,TRUE
+G711-6,G711-739,G711-[Peripheral Blood Mononuclear Cell],739,[Peripheral Blood Mononuclear Cell],G711,6,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G219-3-1,G219-247-965,G219-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],965,[Patient Derived Neural Stem Cell],247,1,Spain,TRUE,TRUE,FALSE,FALSE
+G628-1-2,G628-32-270,G628-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],270,[Patient Derived Neural Stem Cell],32,2,Spain,TRUE,TRUE,TRUE,TRUE
+G873-2-2,G873-46-195,G873-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],195,[Patient Derived Neural Stem Cell],46,2,Spain,TRUE,FALSE,TRUE,TRUE
+G394-5-1-2-1,G394-57-892-2-438,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],438,[Xenograph Derive Cell Line],2,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G988-3-3-1,G988-327-207-206,G988-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],206,[Engineered GBM Cell Line],207,1,Spain,TRUE,TRUE,TRUE,TRUE
+G577-4-4-2-1,G577-268-320-832-146,G577-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],146,[Xenograph Derive Cell Line],832,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G283-3-1-5,G283-83-539-336,G283-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],336,[Engineered GBM Cell Line],539,5,Edinburgh,TRUE,FALSE,FALSE,TRUE
+G138-3-2-1-1,G138-858-735-915-112,G138-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],112,[Xenograph Derive Cell Line],915,1,Spain,TRUE,TRUE,TRUE,TRUE
+G530-8,G530-598,G530-[Human Feotal Primary Tissue],598,[Human Feotal Primary Tissue],G530,8,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G668-4-3-1,G668-685-981-777,G668-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],777,[Engineered GBM Cell Line],981,1,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G642-7-2-1,G642-311-312-367,G642-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],367,[Isogenic Gene Cell Line],312,1,Spain,TRUE,TRUE,TRUE,TRUE
+G394-2-2-1-2,G394-534-501-126-593,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],593,[Xenograph Derive Cell Line],126,2,UCL,TRUE,FALSE,TRUE,TRUE
+G394-5-1-1-2,G394-57-892-997-964,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],964,[Xenograph Derive Cell Line],997,2,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G577-9,G577-81,G577-[Primary Tumour Tissue],81,[Primary Tumour Tissue],G577,9,Spain,TRUE,TRUE,TRUE,FALSE
+G988-9-2-2,G988-17-213-82,G988-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],82,[Engineered GBM Cell Line],213,2,Spain,TRUE,TRUE,TRUE,TRUE
+G873-6-1-1-5,G873-749-996-644-498,G873-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],498,[Xenograph Derive Cell Line],644,5,UCL,FALSE,FALSE,TRUE,TRUE
+G835-4-3,G835-301-169,G835-[Primary Tumour Tissue]-[GBM Cell Line],169,[GBM Cell Line],301,3,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G468-4-3-1,G468-365-510-308,G468-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],308,[Engineered GBM Cell Line],510,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G930-5,G930-40,G930-[Human Feotal Primary Tissue],40,[Human Feotal Primary Tissue],G930,5,Spain,TRUE,TRUE,TRUE,FALSE
+G530-8-2,G530-598-806,G530-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],806,[Human Neural Stem Cell Line],598,2,UCL,TRUE,TRUE,FALSE,TRUE
+G892-9-2,G892-718-276,G892-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],276,[Human Neural Stem Cell Line],718,2,UCL,FALSE,TRUE,TRUE,TRUE
+G463-13,G463-8,G463-[Human Feotal Primary Tissue],8,[Human Feotal Primary Tissue],G463,13,Spain,TRUE,TRUE,FALSE,FALSE
+G992-4-2,G992-538-960,G992-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],960,[Patient Derived Neural Stem Cell],538,2,Spain,FALSE,TRUE,TRUE,TRUE
+G642-7-2,G642-311-312,G642-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],312,[Human Neural Stem Cell Line],311,2,UCL,FALSE,TRUE,FALSE,TRUE
+G738-2-2,G738-982-831,G738-[Primary Tumour Tissue]-[GBM Cell Line],831,[GBM Cell Line],982,2,UCL,TRUE,TRUE,TRUE,TRUE
+G415-3-2,G415-834-370,G415-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],370,[Human Neural Stem Cell Line],834,2,Spain,FALSE,TRUE,TRUE,TRUE
+G689-4,G689-211,G689-[Peripheral Blood Mononuclear Cell],211,[Peripheral Blood Mononuclear Cell],G689,4,Spain,FALSE,TRUE,TRUE,TRUE
+G873-6-1-1,G873-749-996-644,G873-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],644,[Engineered GBM Cell Line],996,1,UCL,TRUE,TRUE,TRUE,FALSE
+G463-13-2,G463-8-887,G463-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],887,[Human Neural Stem Cell Line],8,2,UCL,TRUE,FALSE,TRUE,TRUE
+G550-3,G550-420,G550-[Primary Tumour Tissue],420,[Primary Tumour Tissue],G550,3,UCL,TRUE,TRUE,TRUE,TRUE
+G415-10-1-2,G415-347-558-848,G415-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],848,[Isogenic Gene Cell Line],558,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G123-1-3,G123-197-377,G123-[Primary Tumour Tissue]-[GBM Cell Line],377,[GBM Cell Line],197,3,UCL,TRUE,FALSE,FALSE,FALSE
+G689-4-2,G689-211-546,G689-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],546,[Patient Derived Neural Stem Cell],211,2,UCL,TRUE,TRUE,TRUE,TRUE
+G728-5-2,G728-543-650,G728-[Primary Tumour Tissue]-[GBM Cell Line],650,[GBM Cell Line],543,2,UCL,TRUE,TRUE,TRUE,TRUE
+G689-5,G689-447,G689-[Human Feotal Primary Tissue],447,[Human Feotal Primary Tissue],G689,5,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G951-3,G951-525,G951-[Peripheral Blood Mononuclear Cell],525,[Peripheral Blood Mononuclear Cell],G951,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G562-8,G562-888,G562-[Peripheral Blood Mononuclear Cell],888,[Peripheral Blood Mononuclear Cell],G562,8,Edinburgh,TRUE,TRUE,FALSE,FALSE
+G283-5-1,G283-12-376,G283-[Primary Tumour Tissue]-[GBM Cell Line],376,[GBM Cell Line],12,1,UCL,TRUE,TRUE,FALSE,TRUE
+G892-9-2-1,G892-718-276-634,G892-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],634,[Isogenic Gene Cell Line],276,1,Spain,TRUE,TRUE,TRUE,TRUE
+G588-4,G588-924,G588-[Primary Tumour Tissue],924,[Primary Tumour Tissue],G588,4,UCL,FALSE,TRUE,TRUE,TRUE
+G463-5-1-1,G463-473-966-448,G463-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],448,[Engineered GBM Cell Line],966,1,UCL,TRUE,TRUE,TRUE,TRUE
+G138-3-2-1,G138-858-735-915,G138-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],915,[Engineered GBM Cell Line],735,1,UCL,TRUE,TRUE,TRUE,TRUE
+G970-4,G970-950,G970-[Human Feotal Primary Tissue],950,[Human Feotal Primary Tissue],G970,4,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G873-6-1-1-6,G873-749-996-644-472,G873-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],472,[Xenograph Derive Cell Line],644,6,UCL,FALSE,TRUE,TRUE,TRUE
+G668-3-3-1,G668-897-715-481,G668-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],481,[Isogenic Gene Cell Line],715,1,UCL,TRUE,TRUE,FALSE,TRUE
+G873-4-1-1,G873-861-495-90,G873-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],90,[Isogenic Gene Cell Line],495,1,UCL,TRUE,FALSE,TRUE,TRUE
+G892-8,G892-293,G892-[Peripheral Blood Mononuclear Cell],293,[Peripheral Blood Mononuclear Cell],G892,8,Edinburgh,FALSE,FALSE,TRUE,FALSE
+G511-4-3,G511-167-478,G511-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],478,[Patient Derived Neural Stem Cell],167,3,Spain,TRUE,TRUE,TRUE,TRUE
+G992-2-2,G992-551-283,G992-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],283,[Patient Derived Neural Stem Cell],551,2,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G873-4,G873-861,G873-[Human Feotal Primary Tissue],861,[Human Feotal Primary Tissue],G873,4,Spain,FALSE,TRUE,TRUE,TRUE
+G738-3-2-3,G738-49-552-940,G738-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],940,[Engineered GBM Cell Line],552,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G463-8-1,G463-963-303,G463-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],303,[Human Neural Stem Cell Line],963,1,Spain,TRUE,TRUE,FALSE,FALSE
+G873-5,G873-304,G873-[Human Feotal Primary Tissue],304,[Human Feotal Primary Tissue],G873,5,Spain,TRUE,FALSE,FALSE,TRUE
+G463-14-2-2,G463-786-364-627,G463-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],627,[Engineered GBM Cell Line],364,2,UCL,TRUE,TRUE,TRUE,TRUE
+G711-1-2-1,G711-991-787-781,G711-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],781,[Isogenic Gene Cell Line],787,1,UCL,TRUE,TRUE,TRUE,FALSE
+G892-1-2,G892-486-31,G892-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],31,[Patient Derived Neural Stem Cell],486,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G630-3-1,G630-912-588,G630-[Primary Tumour Tissue]-[GBM Cell Line],588,[GBM Cell Line],912,1,UCL,TRUE,TRUE,TRUE,TRUE
+G988-9-2,G988-17-213,G988-[Primary Tumour Tissue]-[GBM Cell Line],213,[GBM Cell Line],17,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G873-6,G873-749,G873-[Primary Tumour Tissue],749,[Primary Tumour Tissue],G873,6,Spain,TRUE,FALSE,FALSE,FALSE
+G892-9-1-1,G892-718-779-798,G892-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],798,[Isogenic Gene Cell Line],779,1,UCL,TRUE,TRUE,TRUE,FALSE
+G872-4-1,G872-507-793,G872-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],793,[Patient Derived Neural Stem Cell],507,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G930-5-1,G930-40-577,G930-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],577,[Human Neural Stem Cell Line],40,1,Spain,TRUE,TRUE,FALSE,FALSE
+G511-9,G511-233,G511-[Peripheral Blood Mononuclear Cell],233,[Peripheral Blood Mononuclear Cell],G511,9,UCL,TRUE,TRUE,TRUE,TRUE
+G275-5-1-1-2,G275-567-632-196-19,G275-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],19,[Xenograph Derive Cell Line],196,2,UCL,FALSE,TRUE,TRUE,TRUE
+G550-1-2,G550-152-566,G550-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],566,[Patient Derived Neural Stem Cell],152,2,UCL,TRUE,TRUE,TRUE,TRUE
+G992-5-1-3,G992-359-449-670,G992-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],670,[Isogenic Gene Cell Line],449,3,Spain,TRUE,TRUE,TRUE,TRUE
+G530-5-1-4,G530-97-662-504,G530-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],504,[Engineered GBM Cell Line],662,4,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G873-6-2,G873-749-743,G873-[Primary Tumour Tissue]-[GBM Cell Line],743,[GBM Cell Line],749,2,Spain,TRUE,TRUE,TRUE,FALSE
+G964-1-2,G964-617-450,G964-[Primary Tumour Tissue]-[GBM Cell Line],450,[GBM Cell Line],617,2,UCL,TRUE,TRUE,TRUE,TRUE
+G86-8-1,G86-742-959,G86-[Primary Tumour Tissue]-[GBM Cell Line],959,[GBM Cell Line],742,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G86-8,G86-742,G86-[Primary Tumour Tissue],742,[Primary Tumour Tissue],G86,8,UCL,FALSE,TRUE,FALSE,TRUE
+G364-1-1,G364-833-866,G364-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],866,[Human Neural Stem Cell Line],833,1,Spain,TRUE,FALSE,TRUE,TRUE
+G562-9,G562-998,G562-[Primary Tumour Tissue],998,[Primary Tumour Tissue],G562,9,UCL,TRUE,FALSE,TRUE,FALSE
+G728-5,G728-543,G728-[Primary Tumour Tissue],543,[Primary Tumour Tissue],G728,5,UCL,TRUE,TRUE,TRUE,TRUE
+G123-3-1-2-2,G123-298-166-658-844,G123-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],844,[Xenograph Derive Cell Line],658,2,UCL,TRUE,TRUE,TRUE,TRUE
+G275-2-1-3,G275-1-604-205,G275-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],205,[Isogenic Gene Cell Line],604,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G138-7-1-3,G138-381-840-123,G138-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],123,[Isogenic Gene Cell Line],840,3,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G988-9,G988-17,G988-[Primary Tumour Tissue],17,[Primary Tumour Tissue],G988,9,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G872-8,G872-69,G872-[Primary Tumour Tissue],69,[Primary Tumour Tissue],G872,8,Spain,FALSE,TRUE,TRUE,FALSE
+G275-3-2-1-1,G275-20-717-176-775,G275-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],775,[Xenograph Derive Cell Line],176,1,UCL,FALSE,FALSE,TRUE,TRUE
+G738-2-1-1,G738-982-590-488,G738-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],488,[Engineered GBM Cell Line],590,1,UCL,TRUE,FALSE,TRUE,TRUE
+G765-6,G765-766,G765-[Primary Tumour Tissue],766,[Primary Tumour Tissue],G765,6,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G105-10-3,G105-859-989,G105-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],989,[Human Neural Stem Cell Line],859,3,Edinburgh,FALSE,TRUE,TRUE,FALSE
+G138-7,G138-381,G138-[Human Feotal Primary Tissue],381,[Human Feotal Primary Tissue],G138,7,Spain,TRUE,TRUE,TRUE,TRUE
+G364-7-3,G364-118-613,G364-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],613,[Patient Derived Neural Stem Cell],118,3,UCL,TRUE,TRUE,TRUE,TRUE
+G463-6-1-1,G463-229-287-262,G463-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],262,[Isogenic Gene Cell Line],287,1,Spain,TRUE,TRUE,TRUE,TRUE
+G464-10,G464-329,G464-[Human Feotal Primary Tissue],329,[Human Feotal Primary Tissue],G464,10,Spain,TRUE,TRUE,TRUE,TRUE
+G415-3-3,G415-834-475,G415-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],475,[Human Neural Stem Cell Line],834,3,UCL,TRUE,TRUE,FALSE,TRUE
+G394-5-2-4,G394-57-237-254,G394-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],254,[Engineered GBM Cell Line],237,4,UCL,FALSE,TRUE,TRUE,TRUE
+G283-8-1,G283-440-492,G283-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],492,[Human Neural Stem Cell Line],440,1,Spain,FALSE,TRUE,TRUE,TRUE
+G892-3-2,G892-441-455,G892-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],455,[Patient Derived Neural Stem Cell],441,2,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G549-2-2,G549-759-461,G549-[Primary Tumour Tissue]-[GBM Cell Line],461,[GBM Cell Line],759,2,Spain,TRUE,FALSE,TRUE,TRUE
+G123-3-2,G123-298-471,G123-[Primary Tumour Tissue]-[GBM Cell Line],471,[GBM Cell Line],298,2,UCL,FALSE,TRUE,TRUE,TRUE
+G511-5-1-3,G511-954-930-524,G511-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],524,[Isogenic Gene Cell Line],930,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G666-14-1,G666-732-256,G666-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],256,[Patient Derived Neural Stem Cell],732,1,UCL,TRUE,TRUE,TRUE,TRUE
+G970-5,G970-468,G970-[Human Feotal Primary Tissue],468,[Human Feotal Primary Tissue],G970,5,UCL,TRUE,FALSE,TRUE,TRUE
+G464-4-2,G464-591-513,G464-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],513,[Human Neural Stem Cell Line],591,2,UCL,TRUE,FALSE,TRUE,FALSE
+G628-2-1-2,G628-506-862-416,G628-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],416,[Engineered GBM Cell Line],862,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G415-10,G415-347,G415-[Human Feotal Primary Tissue],347,[Human Feotal Primary Tissue],G415,10,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G200-5-1-1,G200-626-484-22,G200-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],22,[Engineered GBM Cell Line],484,1,UCL,TRUE,TRUE,TRUE,TRUE
+G86-6-1,G86-922-395,G86-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],395,[Human Neural Stem Cell Line],922,1,UCL,TRUE,FALSE,TRUE,TRUE
+G86-8-1-1,G86-742-959-443,G86-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],443,[Engineered GBM Cell Line],959,1,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G530-9,G530-135,G530-[Peripheral Blood Mononuclear Cell],135,[Peripheral Blood Mononuclear Cell],G530,9,UCL,TRUE,TRUE,TRUE,TRUE
+G588-1-1-1,G588-398-630-422,G588-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],422,[Engineered GBM Cell Line],630,1,UCL,TRUE,TRUE,FALSE,TRUE
+G200-8,G200-917,G200-[Human Feotal Primary Tissue],917,[Human Feotal Primary Tissue],G200,8,Edinburgh,FALSE,TRUE,FALSE,TRUE
+G872-5-1,G872-942-516,G872-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],516,[Patient Derived Neural Stem Cell],942,1,Spain,TRUE,FALSE,TRUE,TRUE
+G642-2-1-2,G642-467-445-906,G642-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],906,[Engineered GBM Cell Line],445,2,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G105-9-2-3,G105-183-661-722,G105-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],722,[Isogenic Gene Cell Line],661,3,UCL,TRUE,TRUE,FALSE,TRUE
+G988-3-5,G988-327-70,G988-[Primary Tumour Tissue]-[GBM Cell Line],70,[GBM Cell Line],327,5,Edinburgh,FALSE,FALSE,FALSE,TRUE
+G630-2-1-1,G630-520-13-764,G630-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],764,[Isogenic Gene Cell Line],13,1,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G765-5-3-1,G765-34-456-596,G765-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],596,[Isogenic Gene Cell Line],456,1,Spain,FALSE,TRUE,TRUE,TRUE
+G72-4,G72-331,G72-[Human Feotal Primary Tissue],331,[Human Feotal Primary Tissue],G72,4,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G630-3-1-1,G630-912-588-826,G630-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],826,[Engineered GBM Cell Line],588,1,Spain,TRUE,TRUE,TRUE,TRUE
+G415-2-1,G415-64-561,G415-[Primary Tumour Tissue]-[GBM Cell Line],561,[GBM Cell Line],64,1,UCL,TRUE,TRUE,TRUE,TRUE
+G123-3-2-1-2,G123-298-471-824-236,G123-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],236,[Xenograph Derive Cell Line],824,2,Spain,TRUE,TRUE,FALSE,TRUE
+G549-7,G549-597,G549-[Peripheral Blood Mononuclear Cell],597,[Peripheral Blood Mononuclear Cell],G549,7,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G892-8-2,G892-293-137,G892-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],137,[Patient Derived Neural Stem Cell],293,2,UCL,FALSE,TRUE,TRUE,TRUE
+G463-13-3,G463-8-704,G463-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],704,[Human Neural Stem Cell Line],8,3,Spain,TRUE,TRUE,TRUE,FALSE
+G668-5-2-2,G668-843-672-133,G668-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],133,[Isogenic Gene Cell Line],672,2,UCL,TRUE,FALSE,TRUE,TRUE
+G738-6,G738-291,G738-[Human Feotal Primary Tissue],291,[Human Feotal Primary Tissue],G738,6,UCL,FALSE,TRUE,TRUE,TRUE
+G549-4-2,G549-491-929,G549-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],929,[Patient Derived Neural Stem Cell],491,2,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G562-7-2,G562-470-927,G562-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],927,[Patient Derived Neural Stem Cell],470,2,UCL,TRUE,FALSE,TRUE,TRUE
+G463-14,G463-786,G463-[Primary Tumour Tissue],786,[Primary Tumour Tissue],G463,14,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G123-6,G123-142,G123-[Peripheral Blood Mononuclear Cell],142,[Peripheral Blood Mononuclear Cell],G123,6,UCL,FALSE,TRUE,TRUE,TRUE
+G511-7-1-1-1,G511-334-557-849-584,G511-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],584,[Xenograph Derive Cell Line],849,1,UCL,TRUE,FALSE,TRUE,TRUE
+G550-4,G550-480,G550-[Peripheral Blood Mononuclear Cell],480,[Peripheral Blood Mononuclear Cell],G550,4,Spain,TRUE,TRUE,TRUE,TRUE
+G394-7,G394-763,G394-[Human Feotal Primary Tissue],763,[Human Feotal Primary Tissue],G394,7,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G668-4-4,G668-685-683,G668-[Primary Tumour Tissue]-[GBM Cell Line],683,[GBM Cell Line],685,4,UCL,FALSE,TRUE,TRUE,TRUE
+G283-5-2,G283-12-419,G283-[Primary Tumour Tissue]-[GBM Cell Line],419,[GBM Cell Line],12,2,Spain,TRUE,TRUE,TRUE,FALSE
+G562-9-2-1-2,G562-998-565-530-277,G562-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],277,[Xenograph Derive Cell Line],530,2,Edinburgh,TRUE,FALSE,FALSE,TRUE
+G992-5-2,G992-359-483,G992-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],483,[Human Neural Stem Cell Line],359,2,UCL,FALSE,TRUE,TRUE,TRUE
+G988-7-2-1,G988-200-783-907,G988-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],907,[Engineered GBM Cell Line],783,1,Spain,TRUE,TRUE,TRUE,TRUE
+G711-7,G711-995,G711-[Human Feotal Primary Tissue],995,[Human Feotal Primary Tissue],G711,7,Spain,FALSE,FALSE,TRUE,TRUE
+G988-10,G988-841,G988-[Primary Tumour Tissue],841,[Primary Tumour Tissue],G988,10,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G530-1-2,G530-406-259,G530-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],259,[Human Neural Stem Cell Line],406,2,UCL,TRUE,TRUE,TRUE,FALSE
+G511-3-2,G511-810-850,G511-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],850,[Patient Derived Neural Stem Cell],810,2,Spain,FALSE,TRUE,TRUE,TRUE
+G738-2-2-2-2,G738-982-831-651-297,G738-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],297,[Xenograph Derive Cell Line],651,2,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G872-8-1,G872-69-878,G872-[Primary Tumour Tissue]-[GBM Cell Line],878,[GBM Cell Line],69,1,Spain,TRUE,TRUE,TRUE,TRUE
+G765-6-2,G765-766-91,G765-[Primary Tumour Tissue]-[GBM Cell Line],91,[GBM Cell Line],766,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G550-2-2,G550-947-932,G550-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],932,[Human Neural Stem Cell Line],947,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G463-7-1,G463-703-215,G463-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],215,[Patient Derived Neural Stem Cell],703,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G463-14-1-3,G463-786-214-756,G463-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],756,[Engineered GBM Cell Line],214,3,UCL,TRUE,FALSE,FALSE,TRUE
+G86-9,G86-44,G86-[Human Feotal Primary Tissue],44,[Human Feotal Primary Tissue],G86,9,UCL,TRUE,FALSE,TRUE,TRUE
+G873-6-1-2,G873-749-996-741,G873-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],741,[Engineered GBM Cell Line],996,2,UCL,FALSE,TRUE,FALSE,FALSE
+G415-9-2,G415-541-188,G415-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],188,[Human Neural Stem Cell Line],541,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G275-7,G275-690,G275-[Human Feotal Primary Tissue],690,[Human Feotal Primary Tissue],G275,7,Spain,TRUE,TRUE,TRUE,TRUE
+G666-15-4,G666-317-115,G666-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],115,[Human Neural Stem Cell Line],317,4,UCL,TRUE,TRUE,TRUE,FALSE
+G577-10,G577-74,G577-[Peripheral Blood Mononuclear Cell],74,[Peripheral Blood Mononuclear Cell],G577,10,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G138-8,G138-120,G138-[Primary Tumour Tissue],120,[Primary Tumour Tissue],G138,8,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G892-9,G892-718,G892-[Human Feotal Primary Tissue],718,[Human Feotal Primary Tissue],G892,9,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G781-3-1,G781-580-313,G781-[Primary Tumour Tissue]-[GBM Cell Line],313,[GBM Cell Line],580,1,UCL,TRUE,FALSE,TRUE,TRUE
+G138-6-1-3,G138-812-411-458,G138-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],458,[Isogenic Gene Cell Line],411,3,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G105-10,G105-859,G105-[Human Feotal Primary Tissue],859,[Human Feotal Primary Tissue],G105,10,UCL,TRUE,TRUE,TRUE,TRUE
+G72-5,G72-795,G72-[Peripheral Blood Mononuclear Cell],795,[Peripheral Blood Mononuclear Cell],G72,5,Edinburgh,TRUE,TRUE,TRUE,FALSE
+G872-6-1-1-1,G872-994-54-415-158,G872-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],158,[Xenograph Derive Cell Line],415,1,Edinburgh,FALSE,TRUE,TRUE,TRUE
+G988-7-2,G988-200-783,G988-[Primary Tumour Tissue]-[GBM Cell Line],783,[GBM Cell Line],200,2,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G711-1-2,G711-991-787,G711-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],787,[Human Neural Stem Cell Line],991,2,UCL,TRUE,TRUE,TRUE,TRUE
+G728-6,G728-540,G728-[Peripheral Blood Mononuclear Cell],540,[Peripheral Blood Mononuclear Cell],G728,6,Spain,TRUE,TRUE,TRUE,FALSE
+G668-2-1-1-1,G668-346-362-397-0,G668-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],0,[Xenograph Derive Cell Line],397,1,UCL,TRUE,TRUE,TRUE,TRUE
+G738-3-2,G738-49-552,G738-[Primary Tumour Tissue]-[GBM Cell Line],552,[GBM Cell Line],49,2,Edinburgh,FALSE,TRUE,TRUE,FALSE
+G138-8-1-2,G138-120-266-522,G138-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],522,[Engineered GBM Cell Line],266,2,UCL,TRUE,TRUE,FALSE,TRUE
+G86-7-1,G86-242-95,G86-[Peripheral Blood Mononuclear Cell]-[Patient Derived Neural Stem Cell],95,[Patient Derived Neural Stem Cell],242,1,Spain,TRUE,TRUE,FALSE,TRUE
+G951-1-1,G951-910-948,G951-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],948,[Human Neural Stem Cell Line],910,1,UCL,TRUE,TRUE,TRUE,TRUE
+G511-2-2,G511-67-286,G511-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],286,[Human Neural Stem Cell Line],67,2,Edinburgh,TRUE,FALSE,TRUE,TRUE
+G642-1-2-2,G642-175-382-563,G642-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line],563,[Engineered GBM Cell Line],382,2,UCL,TRUE,TRUE,TRUE,TRUE
+G364-9-1,G364-177-699,G364-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line],699,[Human Neural Stem Cell Line],177,1,UCL,FALSE,TRUE,TRUE,FALSE
