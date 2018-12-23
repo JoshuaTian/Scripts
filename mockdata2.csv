@@ -1,0 +1,5 @@
+code_index,code_id,code_ca,id,categary,trace,index,labs,epic,rna_seq,wgs,atac_seq
+G577-5-3-1,G577-315-502-193,G577-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],193,[Isogenic Gene Cell Line],502,1,Edinburgh,TRUE,TRUE,FALSE,TRUE
+G970-4-2-1,G970-950-201-181,G970-[Human Feotal Primary Tissue]-[Human Neural Stem Cell Line]-[Isogenic Gene Cell Line],181,[Isogenic Gene Cell Line],201,1,Edinburgh,FALSE,TRUE,TRUE,FALSE
+G738-3-2-1-1,G738-49-552-528-909,G738-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],909,[Xenograph Derive Cell Line],528,1,Edinburgh,TRUE,TRUE,TRUE,TRUE
+G588-4-1-2-1,G588-924-535-961-708,G588-[Primary Tumour Tissue]-[GBM Cell Line]-[Engineered GBM Cell Line]-[Xenograph Derive Cell Line],708,[Xenograph Derive Cell Line],961,1,Spain,FALSE,TRUE,FALSE,TRUE
